@@ -1,3 +1,5 @@
+﻿> **正本リポジトリ（GitHub Private）：** https://github.com/haruki00430/NDB_XXX_heatwave_heatstroke
+
 # 高齢者単独世帯率と熱中症関連医療利用の生態学的関連
 (NDB_XXX_heatwave_heatstroke)
 
