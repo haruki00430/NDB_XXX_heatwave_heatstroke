@@ -1,0 +1,33 @@
+モデル2: 点滴注射500mL以上 ~ 猛暑日数 + WBGT + 高齢者率 + エアコン普及率
+================================================================================
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:       点滴注射500mL以上_算定回数   R-squared:                       0.042
+Model:                            OLS   Adj. R-squared:                 -0.049
+Method:                 Least Squares   F-statistic:                    0.4643
+Date:                Sat, 28 Feb 2026   Prob (F-statistic):              0.761
+Time:                        20:29:12   Log-Likelihood:                -622.57
+No. Observations:                  47   AIC:                             1255.
+Df Residuals:                      42   BIC:                             1264.
+Df Model:                           4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const      -2.914e+04   7.26e+05     -0.040      0.968    -1.5e+06    1.44e+06
+猛暑日数         865.8028   2330.151      0.372      0.712   -3836.633    5568.238
+WBGT平均      1.308e+04   3.74e+04      0.350      0.728   -6.24e+04    8.85e+04
+高齢者単独世帯率   -1.007e+04   1.29e+04     -0.781      0.439   -3.61e+04     1.6e+04
+エアコン普及率      149.8324   2838.706      0.053      0.958   -5578.908    5878.572
+==============================================================================
+Omnibus:                       27.406   Durbin-Watson:                   2.178
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               47.181
+Skew:                           1.817   Prob(JB):                     5.69e-11
+Kurtosis:                       6.298   Cond. No.                     3.31e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.31e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.

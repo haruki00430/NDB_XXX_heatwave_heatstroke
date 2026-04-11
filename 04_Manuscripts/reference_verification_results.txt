@@ -1,0 +1,474 @@
+Reference Verification and Matching Results
+================================================================================
+
+## Section 1: PubMed Verification Results
+--------------------------------------------------------------------------------
+
+#1:  (2023)
+  Title: ...
+  Verification: Government/International
+
+#2:  (2024)
+  Title: ...
+  Verification: Government/International
+
+#3: Intergovernmental P (2021)
+  Title: anel on Climate Change (IPCC)...
+  Verification: Government/International
+
+#4: Sasaki H (2021)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#5: Parsons K (2006)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#6: Blazejczyk K (2012)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#7:  (2022)
+  Title: ...
+  Verification: Government/International
+
+#8: Japan M ()
+  Title: eteorological Agency...
+  Verification: Government/International
+
+#9: Hondula DM (2017)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#10: Harlan SL (2013)
+  Title: , Declet-Barreto JH, Stefanov WL, Petitti DB...
+  Verification: Not found (PMID: Not found in PubMed)
+
+#11: Kenney WL (1985)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#12: Bouchama A (2002)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#13: Vandentorren S (2003)
+  Title: August 2003 heat wave in France: risk factors for death of elderly people living...
+  Verification: Not found (PMID: Not found in PubMed)
+
+#14: Fouillet A (2003)
+  Title: Excess mortality related to the August 2003 heat wave in France...
+  Verification: Not found (PMID: Not found in PubMed)
+
+#15:  (2014)
+  Title: ...
+  Verification: Government/International
+
+#16: Nakano M (2020)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#17: Semenza JC (1995)
+  Title: Heat-related deaths during the July 1995 heat wave in Chicago...
+  Verification: Not found (PMID: Not found in PubMed)
+
+#18: Naughton MP (1999)
+  Title: Heat-related mortality during a 1999 heat wave in Chicago...
+  Verification: Not found (PMID: Not found in PubMed)
+
+#19: Kondo MC (2020)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#20: Ng CF (2014)
+  Title: Sociogeographic variation in the effects of heat and cold on daily mortality in ...
+  Verification: PubMed (PMID: 24317342)
+
+#21: Onozuka D (2015)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#22: Blazejczyk K (2005)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#23: Liljegren JC (2008)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#24: Cook RD (1977)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#25: Larose TL (2015)
+  Title: , Boulé NG, Kenny GP...
+  Verification: Not found (PMID: Not found in PubMed)
+
+#26: Blatteis CM (2012)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#27: Consumer A (2019)
+  Title: ffairs Agency, Government of Japan...
+  Verification: Government/International
+
+#28: Sakka A (2012)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#29: National P (2018)
+  Title: olice Agency...
+  Verification: Government/International
+
+#30: Weisskopf MG (1999)
+  Title: Heat wave morbidity and mortality, Milwaukee, Wis, 1999 vs 1995: an improved res...
+  Verification: Not found (PMID: Not found in PubMed)
+
+#31: Conti S (2003)
+  Title: Epidemiologic study of mortality during the Summer 2003 heat wave in Italy...
+  Verification: Not found (PMID: Not found in PubMed)
+
+#32: Berkman ND (2011)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#33: Klinenberg E (2002)
+  Title: ...
+  Verification: Book
+
+#34: Semenza JC (1995)
+  Title: Heat-related deaths during the July 1995 heat wave in Chicago...
+  Verification: Not found (PMID: Not found in PubMed)
+
+#35: Murage P (2017)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#36: Miyatake N (2009)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#37: Heaviside C (2017)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#38: Zhao L (2018)
+  Title: , Bou-Zeid E, Guan K, Liu X...
+  Verification: Not found (PMID: Not found in PubMed)
+
+#39: Nakamura K (2008)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#40: Yamada Y (2015)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#41: Saito T (2012)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#42:  (2023)
+  Title: ...
+  Verification: Government/International
+
+#43: Eguchi E (2012)
+  Title: Healthy lifestyle behaviours and cardiovascular mortality among Japanese men and...
+  Verification: Not found (PMID: Not found in PubMed)
+
+#44:  (2002)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#45: Centers for Disease Control and Prevention ()
+  Title: CDC’s Social Vulnerability Index (SVI)...
+  Verification: Government/International
+
+#46: Nakamura Y (2021)
+  Title: Perspective: use of regulatory science in the field of nutrition and health—rece...
+  Verification: Not found (PMID: Not found in PubMed)
+
+#47: Keim ME (1999)
+  Title: , Cardenas-Hagan E...
+  Verification: Not found (PMID: Not found in PubMed)
+
+#48: Rothman KJ (2008)
+  Title: ...
+  Verification: Not found (PMID: Title too short)
+
+#49: Hartnett KP (2019)
+  Title: , Kite-Powell A, DeVies J, et al...
+  Verification: Not found (PMID: Not found in PubMed)
+
+
+## Section 2: References NOT Found in PubMed
+--------------------------------------------------------------------------------
+
+Total: 37 references
+
+#4: Sasaki H (2021)
+  Sasaki H, Ozone S, Tsuchihashi Y, Yamaguchi N. Economic burden of heat-related illness in Japan: a retrospective analysis of emergency hospitalization...
+
+#5: Parsons K (2006)
+  Parsons K. Heat stress standard ISO 7243 and its global application. Ind Health. 2006;44(3):368-379....
+
+#6: Blazejczyk K (2012)
+  Blazejczyk K, Epstein Y, Jendritzky G, Staiger H, Tinz B. Comparison of UTCI to selected thermal indices. Int J Biometeorol. 2012;56(3):515-535....
+
+#9: Hondula DM (2017)
+  Hondula DM, Balling RC, Andrade R, Krayenhoff ES, Middel A, Urban A, Georgescu M, Sailor DJ. Biometeorology for cities. Int J Biometeorol. 2017;61(Sup...
+
+#10: Harlan SL (2013)
+  Harlan SL, Declet-Barreto JH, Stefanov WL, Petitti DB. Neighborhood effects on heat deaths: social and environmental predictors of vulnerability in Ma...
+
+#11: Kenney WL (1985)
+  Kenney WL, Munce TA. Invited review: aging and human temperature regulation. J Appl Physiol (1985). 2003;95(6):2598-2603....
+
+#12: Bouchama A (2002)
+  Bouchama A, Knochel JP. Heat stroke. N Engl J Med. 2002;346(25):1978-1988....
+
+#13: Vandentorren S (2003)
+  Vandentorren S, Bretin P, Zeghnoun A, et al. August 2003 heat wave in France: risk factors for death of elderly people living at home. Eur J Public He...
+
+#14: Fouillet A (2003)
+  Fouillet A, Rey G, Laurent F, et al. Excess mortality related to the August 2003 heat wave in France. Int Arch Occup Environ Health. 2006;80(1):16-24....
+
+#16: Nakano M (2020)
+  Nakano M, Tanabe S. Thermal adaptation and comfort zones in urban high-rise apartments: field survey in Kanto region, Japan. Build Environ. 2020;181:1...
+
+#17: Semenza JC (1995)
+  Semenza JC, Rubin CH, Falter KH, et al. Heat-related deaths during the July 1995 heat wave in Chicago. N Engl J Med. 1996;335(84):84-90....
+
+#18: Naughton MP (1999)
+  Naughton MP, Henderson A, Mirabelli MC, et al. Heat-related mortality during a 1999 heat wave in Chicago. Am J Prev Med. 2002;22(4):221-227....
+
+#19: Kondo MC (2020)
+  Kondo MC. Health implications of redlining: heat islands. Curr Environ Health Rep. 2020;7(3):234-240....
+
+#21: Onozuka D (2015)
+  Onozuka D, Hagihara A. Variation in vulnerability to extreme-temperature-related mortality in Japan: a 47-prefecture study. Environ Health. 2015;14:44...
+
+#22: Blazejczyk K (2005)
+  Blazejczyk K. New indices to assess thermal risks outdoors. In: Matuschek O, ed. Environmental Ergonomics XI. Sweden: University of Lund; 2005:222-225...
+
+#23: Liljegren JC (2008)
+  Liljegren JC, Carhart RA, Lawday P, Tschopp S, Sharp R. Modeling the wet bulb globe temperature using standard meteorological measurements. J Occup En...
+
+#24: Cook RD (1977)
+  Cook RD. Detection of influential observation in linear regression. Technometrics. 1977;19(1):15-18....
+
+#25: Larose TL (2015)
+  Larose TL, Bouchard DR, Sigal RJ, Boulé NG, Kenny GP. Age-related differences in body temperature regulation during exercise in the heat: a systematic...
+
+#26: Blatteis CM (2012)
+  Blatteis CM. Age-dependent changes in temperature regulation - a mini review. Gerontology. 2012;58(4):289-295....
+
+#28: Sakka A (2012)
+  Sakka A, Santamouris M, Livada I, Nicol F, Wilson M. On the thermal performance of low income housing during heat waves. Energy Build. 2012;49:69-77....
+
+#30: Weisskopf MG (1999)
+  Weisskopf MG, Anderson HA, Foldy S, et al. Heat wave morbidity and mortality, Milwaukee, Wis, 1999 vs 1995: an improved response? Am J Public Health. ...
+
+#31: Conti S (2003)
+  Conti S, Meli P, Minelli G, et al. Epidemiologic study of mortality during the Summer 2003 heat wave in Italy. Environ Res. 2005;98(3):390-399....
+
+#32: Berkman ND (2011)
+  Berkman ND, Sheridan SL, Donahue KE, Halpern DJ, Crotty K. Low health literacy and health outcomes: an updated systematic review. Ann Intern Med. 2011...
+
+#34: Semenza JC (1995)
+  Semenza JC, Rubin CH, Falter KH, et al. Heat-related deaths during the July 1995 heat wave in Chicago. N Engl J Med. 1996;335(2):84-90....
+
+#35: Murage P (2017)
+  Murage P, Hajat S, Kovats RS. Effect of night-time temperatures on cause- and age-specific mortality in London. Environ Epidemiol. 2017;1(2):e005....
+
+#36: Miyatake N (2009)
+  Miyatake N, Sakano N, Murakami S. The relation between ambulance transports stratified by heat stroke and air temperature in all 47 prefectures of Jap...
+
+#37: Heaviside C (2017)
+  Heaviside C, Macintyre H, Vardoulakis S. The urban heat island: implications for health in a changing environment. Curr Environ Health Rep. 2017;4(3):...
+
+#38: Zhao L (2018)
+  Zhao L, Oppenheimer M, Zhu Q, Baldwin JW, Ebi KL, Bou-Zeid E, Guan K, Liu X. Interactions between urban heat islands and heat waves. Environ Res Lett....
+
+#39: Nakamura K (2008)
+  Nakamura K, Nakamura Y. [Heat stroke deaths and high ambient temperature]. Nihon Eiseigaku Zasshi. 2008;63(4):782-788. Japanese....
+
+#40: Yamada Y (2015)
+  Yamada Y, Merz L, Kisvetrova H. Quality of life and comorbidity among older home care clients: role of positive attitudes toward aging. Qual Life Res....
+
+#41: Saito T (2012)
+  Saito T, Kai I, Takizawa A. Effects of a program to prevent social isolation on loneliness, depression, and subjective well-being of older adults: a r...
+
+#43: Eguchi E (2012)
+  Eguchi E, Iso H, Tanabe N, et al. Healthy lifestyle behaviours and cardiovascular mortality among Japanese men and women: the Japan collaborative coho...
+
+#44:  (2002)
+  Yamamoto-Mitani N, Aneshensel CS, Levy-Storms L. Patterns of family visiting with institutionalized elders: the case of dementia. J Gerontol B Psychol...
+
+#46: Nakamura Y (2021)
+  Nakamura Y, Okada E, Satoh A, et al. Perspective: use of regulatory science in the field of nutrition and health—recent discussions toward internation...
+
+#47: Keim ME (1999)
+  Keim ME, Giannone P, Babiuch C, Cardenas-Hagan E. Community emergency preparedness: a manual for managers and policy-makers. Geneva: World Health Orga...
+
+#48: Rothman KJ (2008)
+  Rothman KJ, Greenland S, Lash TL. Modern Epidemiology. 3rd ed. Philadelphia: Lippincott Williams & Wilkins; 2008....
+
+#49: Hartnett KP (2019)
+  Hartnett KP, Kite-Powell A, DeVies J, et al. Impact of the COVID-19 pandemic on emergency department visits—United States, January 1, 2019–May 30, 202...
+
+
+## Section 3: Citation-Reference Matching
+--------------------------------------------------------------------------------
+
+Citation #3
+  Topics: climate, heat
+  Current reference: #3
+  Suggested match: #3 (score: 4.0)
+  Context (first occurrence):
+    ve frequency and intensity will continue to increase under current greenhouse gas emission scenarios.3) The economic burden of heat-related hospitaliz...
+
+Citation #5
+  Topics: heat
+  Current reference: #5
+  Suggested match: #13 (score: 2.0)
+  Context (first occurrence):
+    wet-bulb globe temperature (WBGT) are well-established proximal determinants of heatstroke incidence.5), 6) The Japan Meteorological Agency has develo...
+  ⚠️ WARNING: Mismatch detected!
+    Current: Parsons K (2006)
+    Suggested: Vandentorren S (2003)
+
+Citation #7
+  Topics: aging, heat, policy
+  Current reference: #7
+  Suggested match: #13 (score: 4.0)
+  Context (first occurrence):
+    nment has implemented a multi-tier heat alert system to warn the public of dangerous heat conditions.7), 8) However, heat exposure alone does not full...
+  ⚠️ WARNING: Mismatch detected!
+    Current:  (2022)
+    Suggested: Vandentorren S (2003)
+
+Citation #8
+  Topics: heat
+  Current reference: #8
+  Suggested match: #13 (score: 2.0)
+  Context (first occurrence):
+    eorological criteria (WBGT forecasts), without consideration of community-level social vulnerability.8) A geographically targeted alert system that pr...
+  ⚠️ WARNING: Mismatch detected!
+    Current: Japan M ()
+    Suggested: Vandentorren S (2003)
+
+Citation #9
+  Topics: vulnerability, aging, heat
+  Current reference: #9
+  Suggested match: #13 (score: 6.0)
+  Context (first occurrence):
+    uggesting that social determinants of heat vulnerability play a critical role at the community level.9), 10)
+
+Older adults are particularly vulnerable...
+  ⚠️ WARNING: Mismatch detected!
+    Current: Hondula DM (2017)
+    Suggested: Vandentorren S (2003)
+
+Citation #11
+  Topics: aging
+  Current reference: #11
+  Suggested match: #13 (score: 2.0)
+  Context (first occurrence):
+    d chronic comorbidities such as diabetes and chronic kidney disease that compromise thermoregulation.11), 12), 25) Older adults exhibit blunted percep...
+  ⚠️ WARNING: Mismatch detected!
+    Current: Kenney WL (1985)
+    Suggested: Vandentorren S (2003)
+
+Citation #15
+  Topics: social_isolation, aging, urban
+  Current reference: #15
+  Suggested match: #13 (score: 2.0)
+  Context (first occurrence):
+    strained by electricity costs, particularly among low-income older adults reliant on public pensions.15), 16) Individuals living alone lack family mem...
+  ⚠️ WARNING: Mismatch detected!
+    Current:  (2014)
+    Suggested: Vandentorren S (2003)
+
+Citation #17
+  Topics: aging
+  Current reference: #17
+  Suggested match: #13 (score: 2.0)
+  Context (first occurrence):
+    with others who could detect early warning signs such as confusion, lethargy, or reduced oral intake.17), 18) In contrast, elderly individuals living ...
+  ⚠️ WARNING: Mismatch detected!
+    Current: Semenza JC (1995)
+    Suggested: Vandentorren S (2003)
+
+Citation #19
+  Topics: epidemiology
+  Current reference: #19
+  Suggested match: #31 (score: 2.0)
+  Context (first occurrence):
+    der adults with low digital literacy and those without family support may not receive these messages.19)
+
+Despite these theoretical considerations, no...
+  ⚠️ WARNING: Mismatch detected!
+    Current: Kondo MC (2020)
+    Suggested: Conti S (2003)
+
+Citation #20
+  Topics: heat
+  Current reference: #20
+  Suggested match: #13 (score: 2.0)
+  Context (first occurrence):
+    s for heatstroke, consistently identifying advanced age and pre-existing comorbidities as predictors.20), 30) However, most prior research has focused...
+  ⚠️ WARNING: Mismatch detected!
+    Current: Ng CF (2014)
+    Suggested: Vandentorren S (2003)
+
+Citation #24
+  Topics: 
+  Current reference: #24
+  Suggested match: #None (score: 0.0)
+  Context (first occurrence):
+    r each prefecture and excluded observations exceeding the conventional threshold (4/N, where N = 42).24) (2) **Tokyo exclusion analysis**: Because Tok...
+  ⚠️ WARNING: Mismatch detected!
+    Current: Cook RD (1977)
+    Suggested: None (no match found)
+
+Citation #29
+  Topics: social_isolation, aging, mortality, epidemiology, heat
+  Current reference: #29
+  Suggested match: #13 (score: 6.0)
+  Context (first occurrence):
+    rhoods with high proportions of elderly individuals living alone experienced the highest death rates.29), 34) Similarly, the 2003 European heat wave d...
+  ⚠️ WARNING: Mismatch detected!
+    Current: National P (2018)
+    Suggested: Vandentorren S (2003)
+
+Citation #31
+  Topics: social_isolation, aging, epidemiology
+  Current reference: #31
+  Suggested match: #13 (score: 2.0)
+  Context (first occurrence):
+    allacy: associations observed at the prefecture level may not reflect individual-level relationships.31) We cannot establish whether elderly individua...
+  ⚠️ WARNING: Mismatch detected!
+    Current: Conti S (2003)
+    Suggested: Vandentorren S (2003)
+
+Citation #34
+  Topics: vulnerability, aging, heat, epidemiology
+  Current reference: #34
+  Suggested match: #13 (score: 6.0)
+  Context (first occurrence):
+    unity awareness available in "super-aged" prefectures where age-friendly services are more prevalent.34), 30) Future research should explore whether c...
+  ⚠️ WARNING: Mismatch detected!
+    Current: Semenza JC (1995)
+    Suggested: Vandentorren S (2003)
+
+Citation #36
+  Topics: aging, urban, heat
+  Current reference: #36
+  Suggested match: #13 (score: 4.0)
+  Context (first occurrence):
+    n heat islands, housing quality, and outdoor activity patterns vary substantially within prefectures.36), 32) Third, behavioral adaptation may attenua...
+  ⚠️ WARNING: Mismatch detected!
+    Current: Miyatake N (2009)
+    Suggested: Vandentorren S (2003)
+

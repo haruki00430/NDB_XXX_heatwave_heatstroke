@@ -1,0 +1,33 @@
+モデル1: 夜間休日救急搬送医学管理料 ~ 猛暑日数 + WBGT + 高齢者率 + エアコン普及率
+================================================================================
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     夜間休日救急搬送医学管理料_算定回数   R-squared:                       0.069
+Model:                            OLS   Adj. R-squared:                 -0.020
+Method:                 Least Squares   F-statistic:                    0.7734
+Date:                Sat, 28 Feb 2026   Prob (F-statistic):              0.549
+Time:                        20:29:12   Log-Likelihood:                -553.71
+No. Observations:                  47   AIC:                             1117.
+Df Residuals:                      42   BIC:                             1127.
+Df Model:                           4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const       -1.24e+05   1.68e+05     -0.739      0.464   -4.63e+05    2.15e+05
+猛暑日数         325.1730    538.377      0.604      0.549    -761.315    1411.661
+WBGT平均      9316.4203   8638.703      1.078      0.287   -8117.187    2.68e+04
+高齢者単独世帯率   -2895.3828   2980.227     -0.972      0.337   -8909.725    3118.960
+エアコン普及率     -427.4911    655.877     -0.652      0.518   -1751.105     896.123
+==============================================================================
+Omnibus:                       51.435   Durbin-Watson:                   2.156
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              235.324
+Skew:                           2.879   Prob(JB):                     7.94e-52
+Kurtosis:                      12.328   Cond. No.                     3.31e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.31e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.

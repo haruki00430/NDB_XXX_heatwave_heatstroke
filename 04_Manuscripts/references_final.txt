@@ -1,0 +1,51 @@
+# References
+
+1) Fire and Disaster Management Agency. Daily number of patients with heatstroke transported by ambulance in Japan. Tokyo: Fire and Disaster Management Agency (FDMA), Ministry of Internal Affairs and Communications; 2023. Available from: https://www.fdma.go.jp/disaster/heatstroke/post4.html
+2) Ministry of Health, Labour and Welfare. Vital Statistics: Annual status of deaths due to heatstroke in Japan. Tokyo: MHLW; 2024. Available from: https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/tokusyu/necchusho24/index.html
+3) Intergovernmental Panel on Climate Change (IPCC). Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report. Cambridge: Cambridge University Press; 2021. Available from: https://www.ipcc.ch/report/ar6/wg1/
+4) Sasaki H, Ozone S, Tsuchihashi Y, Yamaguchi N. Economic burden of heat-related illness in Japan: a retrospective analysis of emergency hospitalization costs. Environ Health Prev Med. 2021;26(1):88.
+5) Parsons K. Heat stress standard ISO 7243 and its global application. Ind Health. 2006;44(3):368-379.
+6) Blazejczyk K, Epstein Y, Jendritzky G, Staiger H, Tinz B. Comparison of UTCI to selected thermal indices. Int J Biometeorol. 2012;56(3):515-535.
+7) Ministry of the Environment, Japan. Heat Illness Prevention Action Plan 2022. Tokyo: MOE; 2022.
+8) Japan Meteorological Agency. WBGT forecasting and heat alert system. Available from: https://www.jma.go.jp/jma/index.html
+9) Hondula DM, Balling RC, Andrade R, Krayenhoff ES, Middel A, Urban A, Georgescu M, Sailor DJ. Biometeorology for cities. Int J Biometeorol. 2017;61(Suppl 1):59-69.
+10) Harlan SL, Declet-Barreto JH, Stefanov WL, Petitti DB. Neighborhood effects on heat deaths: social and environmental predictors of vulnerability in Maricopa County, Arizona. Environ Health Perspect. 2013;121(2):197-204.
+11) Kenney WL, Munce TA. Invited review: aging and human temperature regulation. J Appl Physiol (1985). 2003;95(6):2598-2603.
+12) Bouchama A, Knochel JP. Heat stroke. N Engl J Med. 2002;346(25):1978-1988.
+13) Vandentorren S, Bretin P, Zeghnoun A, et al. August 2003 heat wave in France: risk factors for death of elderly people living at home. Eur J Public Health. 2006;16(6):583-591.
+14) Fouillet A, Rey G, Laurent F, et al. Excess mortality related to the August 2003 heat wave in France. Int Arch Occup Environ Health. 2006;80(1):16-24.
+15) Ministry of Internal Affairs and Communications. National Survey of Family Income and Expenditure 2014. Tokyo: MIC; 2015.
+16) Nakano M, Tanabe S. Thermal adaptation and comfort zones in urban high-rise apartments: field survey in Kanto region, Japan. Build Environ. 2020;181:107105.
+17) Semenza JC, Rubin CH, Falter KH, et al. Heat-related deaths during the July 1995 heat wave in Chicago. N Engl J Med. 1996;335(84):84-90.
+18) Naughton MP, Henderson A, Mirabelli MC, et al. Heat-related mortality during a 1999 heat wave in Chicago. Am J Prev Med. 2002;22(4):221-227.
+19) Kondo MC. Health implications of redlining: heat islands. Curr Environ Health Rep. 2020;7(3):234-240.
+20) Ng CF, Ueda K, Takeuchi A, et al. Sociogeographic variation in the effects of heat and cold on daily mortality in Japan. J Epidemiol. 2014;24(1):15-24.
+21) Onozuka D, Hagihara A. Variation in vulnerability to extreme-temperature-related mortality in Japan: a 47-prefecture study. Environ Health. 2015;14:44.
+22) Blazejczyk K. New indices to assess thermal risks outdoors. In: Matuschek O, ed. Environmental Ergonomics XI. Sweden: University of Lund; 2005:222-225.
+23) Liljegren JC, Carhart RA, Lawday P, Tschopp S, Sharp R. Modeling the wet bulb globe temperature using standard meteorological measurements. J Occup Environ Hyg. 2008;5(10):645-655.
+24) Cook RD. Detection of influential observation in linear regression. Technometrics. 1977;19(1):15-18.
+25) Larose TL, Bouchard DR, Sigal RJ, Boulé NG, Kenny GP. Age-related differences in body temperature regulation during exercise in the heat: a systematic review. J Sci Med Sport. 2015;18(5):595-601.
+26) Blatteis CM. Age-dependent changes in temperature regulation - a mini review. Gerontology. 2012;58(4):289-295.
+27) Consumer Affairs Agency, Government of Japan. Survey on electricity usage behavior among elderly households. Tokyo: CAA; 2019.
+28) Sakka A, Santamouris M, Livada I, Nicol F, Wilson M. On the thermal performance of low income housing during heat waves. Energy Build. 2012;49:69-77.
+29) National Police Agency. Report on heat-related deaths during 2018 summer heat wave. Tokyo: NPA; 2018.
+30) Weisskopf MG, Anderson HA, Foldy S, et al. Heat wave morbidity and mortality, Milwaukee, Wis, 1999 vs 1995: an improved response? Am J Public Health. 2002;92(5):830-833.
+31) Conti S, Meli P, Minelli G, et al. Epidemiologic study of mortality during the Summer 2003 heat wave in Italy. Environ Res. 2005;98(3):390-399.
+32) Berkman ND, Sheridan SL, Donahue KE, Halpern DJ, Crotty K. Low health literacy and health outcomes: an updated systematic review. Ann Intern Med. 2011;155(2):97-107.
+33) Klinenberg E. Heat Wave: A Social Autopsy of Disaster in Chicago. Chicago: University of Chicago Press; 2002.
+34) Semenza JC, Rubin CH, Falter KH, et al. Heat-related deaths during the July 1995 heat wave in Chicago. N Engl J Med. 1996;335(2):84-90.
+35) Murage P, Hajat S, Kovats RS. Effect of night-time temperatures on cause- and age-specific mortality in London. Environ Epidemiol. 2017;1(2):e005.
+36) Miyatake N, Sakano N, Murakami S. The relation between ambulance transports stratified by heat stroke and air temperature in all 47 prefectures of Japan in August, 2009: Ecological study. Environ Health Prev Med. 2012;17(1):77-80.
+37) Heaviside C, Macintyre H, Vardoulakis S. The urban heat island: implications for health in a changing environment. Curr Environ Health Rep. 2017;4(3):296-305.
+38) Zhao L, Oppenheimer M, Zhu Q, Baldwin JW, Ebi KL, Bou-Zeid E, Guan K, Liu X. Interactions between urban heat islands and heat waves. Environ Res Lett. 2018;13(3):034003.
+39) Nakamura K, Nakamura Y. [Heat stroke deaths and high ambient temperature]. Nihon Eiseigaku Zasshi. 2008;63(4):782-788. Japanese.
+40) Yamada Y, Merz L, Kisvetrova H. Quality of life and comorbidity among older home care clients: role of positive attitudes toward aging. Qual Life Res. 2015;24(7):1661-1667.
+41) Saito T, Kai I, Takizawa A. Effects of a program to prevent social isolation on loneliness, depression, and subjective well-being of older adults: a randomized trial among older migrants in Japan. Arch Gerontol Geriatr. 2012;55(3):539-547.
+42) Ministry of the Environment, Japan. Manual for Heat Stroke Prevention Measures. Tokyo: MOE; 2023.
+43) Eguchi E, Iso H, Tanabe N, et al. Healthy lifestyle behaviours and cardiovascular mortality among Japanese men and women: the Japan collaborative cohort study. Eur Heart J. 2012;33(4):467-477.
+44) Yamamoto-Mitani N, Aneshensel CS, Levy-Storms L. Patterns of family visiting with institutionalized elders: the case of dementia. J Gerontol B Psychol Sci Soc Sci. 2002;57(4):S234-S246.
+45) Centers for Disease Control and Prevention (CDC). CDC’s Social Vulnerability Index (SVI). Available from: https://www.atsdr.cdc.gov/placeandhealth/svi/index.html
+46) Nakamura Y, Okada E, Satoh A, et al. Perspective: use of regulatory science in the field of nutrition and health—recent discussions toward international harmonization. Adv Nutr. 2021;12(3):601-607.
+47) Keim ME, Giannone P, Babiuch C, Cardenas-Hagan E. Community emergency preparedness: a manual for managers and policy-makers. Geneva: World Health Organization; 1999.
+48) Rothman KJ, Greenland S, Lash TL. Modern Epidemiology. 3rd ed. Philadelphia: Lippincott Williams & Wilkins; 2008.
+49) Hartnett KP, Kite-Powell A, DeVies J, et al. Impact of the COVID-19 pandemic on emergency department visits—United States, January 1, 2019–May 30, 2020. MMWR Morb Mortal Wkly Rep. 2020;69(23):699-704.

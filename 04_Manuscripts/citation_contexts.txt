@@ -1,0 +1,769 @@
+Citation Contexts
+================================================================================
+
+Citation #1 (found 5 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 41):
+sociated with infusion therapy utilization (β = 723.37; 95% CI, 376.52–1,070.21; R² = 0.282; *p* = 0.0001). Each one-percentage-point increase in elderly solo household rate was associated with approximatel
+
+
+Occurrence 2 (Line 53):
+nsports for suspected heatstroke reached 91,467 cases, marking a 20% increase from the previous year.1), 2) The combination of accelerating climate change, population aging, and urbanization has elevated
+
+
+Occurrence 3 (Line 109):
+predictor of infusion therapy utilization (β = 723.37; 95% CI, 376.52–1,070.21; R² = 0.282; *p* = 0.0001) (Table 2). Each one-percentage-point increase in elderly solo household rate was associated with ap
+
+
+Occurrence 4 (Line 113):
+fusion therapy utilization became stronger (β = 925.11; 95% CI, 574.13–1,276.09; R² = 0.384; *p* < 0.001) (Table 3).
+
+## 4. Sensitivity Analysis: Tokyo Exclusion
+
+Excluding Tokyo (N = 46), the association
+
+
+Occurrence 5 (Line 53):
+sports for suspected heatstroke reached 91,467 cases, marking a 20% increase from the previous year.1), 2) The combination of accelerating climate change, population aging, and urbanization has elevated Jap
+
+================================================================================
+
+Citation #2 (found 3 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 53):
+orts for suspected heatstroke reached 91,467 cases, marking a 20% increase from the previous year.1), 2) The combination of accelerating climate change, population aging, and urbanization has elevated Jap
+
+
+Occurrence 2 (Line 117):
+ciation remained statistically significant (β = 696.92; 95% CI, 345.80–1,048.04; R² = 0.274; *p* = 0.0002) (Table 3), indicating that the finding was not driven by the unique characteristics of Japan's larg
+
+
+Occurrence 3 (Line 53):
+sports for suspected heatstroke reached 91,467 cases, marking a 20% increase from the previous year.1), 2) The combination of accelerating climate change, population aging, and urbanization has elevated Jap
+
+================================================================================
+
+Citation #3 (found 1 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 53):
+ve frequency and intensity will continue to increase under current greenhouse gas emission scenarios.3) The economic burden of heat-related hospitalizations has been estimated to exceed 10 billion yen an
+
+================================================================================
+
+Citation #4 (found 1 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 53):
+eed 10 billion yen annually, and this cost is escalating as extreme heat events become more frequent.4)
+
+Climatic factors such as ambient temperature, relative humidity, and wet-bulb globe temperature (W
+
+================================================================================
+
+Citation #5 (found 2 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 55):
+wet-bulb globe temperature (WBGT) are well-established proximal determinants of heatstroke incidence.5), 6) The Japan Meteorological Agency has developed a nationwide WBGT forecasting system, and the Min
+
+
+Occurrence 2 (Line 55):
+et-bulb globe temperature (WBGT) are well-established proximal determinants of heatstroke incidence.5), 6) The Japan Meteorological Agency has developed a nationwide WBGT forecasting system, and the Ministr
+
+================================================================================
+
+Citation #6 (found 2 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 55):
+-bulb globe temperature (WBGT) are well-established proximal determinants of heatstroke incidence.5), 6) The Japan Meteorological Agency has developed a nationwide WBGT forecasting system, and the Ministr
+
+
+Occurrence 2 (Line 55):
+et-bulb globe temperature (WBGT) are well-established proximal determinants of heatstroke incidence.5), 6) The Japan Meteorological Agency has developed a nationwide WBGT forecasting system, and the Ministr
+
+================================================================================
+
+Citation #7 (found 4 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 55):
+nment has implemented a multi-tier heat alert system to warn the public of dangerous heat conditions.7), 8) However, heat exposure alone does not fully explain geographic variation in heat-related morbid
+
+
+Occurrence 2 (Line 153):
+the Ministry of the Environment in 2022, includes heat alert systems and public awareness campaigns.7), 31) However, these interventions rely on mass communication channels that may not reach elderly so
+
+
+Occurrence 3 (Line 55):
+ment has implemented a multi-tier heat alert system to warn the public of dangerous heat conditions.7), 8) However, heat exposure alone does not fully explain geographic variation in heat-related morbidity.
+
+
+Occurrence 4 (Line 153):
+the Ministry of the Environment in 2022, includes heat alert systems and public awareness campaigns.7), 31) However, these interventions rely on mass communication channels that may not reach elderly solo ho
+
+================================================================================
+
+Citation #8 (found 3 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 55):
+nt has implemented a multi-tier heat alert system to warn the public of dangerous heat conditions.7), 8) However, heat exposure alone does not fully explain geographic variation in heat-related morbidity.
+
+
+Occurrence 2 (Line 155):
+eorological criteria (WBGT forecasts), without consideration of community-level social vulnerability.8) A geographically targeted alert system that prioritizes outreach to high-vulnerability prefectures
+
+
+Occurrence 3 (Line 55):
+ment has implemented a multi-tier heat alert system to warn the public of dangerous heat conditions.7), 8) However, heat exposure alone does not fully explain geographic variation in heat-related morbidity.
+
+================================================================================
+
+Citation #9 (found 3 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 55):
+uggesting that social determinants of heat vulnerability play a critical role at the community level.9), 10)
+
+Older adults are particularly vulnerable to heat-related illness due to age-related physiolog
+
+
+Occurrence 2 (Line 169):
+bias estimates toward the null. Future studies using heat-specific diagnoses (ICD-10 codes T67.0–T67.9) would strengthen causal inference, although these data are not available in NDB Open Data at the pr
+
+
+Occurrence 3 (Line 55):
+ggesting that social determinants of heat vulnerability play a critical role at the community level.9), 10)
+
+Older adults are particularly vulnerable to heat-related illness due to age-related physiological
+
+================================================================================
+
+Citation #10 (found 2 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 55):
+esting that social determinants of heat vulnerability play a critical role at the community level.9), 10)
+
+Older adults are particularly vulnerable to heat-related illness due to age-related physiological
+
+
+Occurrence 2 (Line 55):
+ggesting that social determinants of heat vulnerability play a critical role at the community level.9), 10)
+
+Older adults are particularly vulnerable to heat-related illness due to age-related physiological
+
+================================================================================
+
+Citation #11 (found 4 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 57):
+nd chronic comorbidities such as cardiovascular disease and diabetes that compromise heat adaptation.11), 12) Among older adults, those living alone constitute an exceptionally high-risk subgroup. Interna
+
+
+Occurrence 2 (Line 133):
+d chronic comorbidities such as diabetes and chronic kidney disease that compromise thermoregulation.11), 12), 25) Older adults exhibit blunted perception of thermal discomfort, reducing their likelihood
+
+
+Occurrence 3 (Line 57):
+d chronic comorbidities such as cardiovascular disease and diabetes that compromise heat adaptation.11), 12) Among older adults, those living alone constitute an exceptionally high-risk subgroup. Internationa
+
+
+Occurrence 4 (Line 133):
+chronic comorbidities such as diabetes and chronic kidney disease that compromise thermoregulation.11), 12), 25) Older adults exhibit blunted perception of thermal discomfort, reducing their likelihood of in
+
+================================================================================
+
+Citation #12 (found 4 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 57):
+hronic comorbidities such as cardiovascular disease and diabetes that compromise heat adaptation.11), 12) Among older adults, those living alone constitute an exceptionally high-risk subgroup. Internationa
+
+
+Occurrence 2 (Line 133):
+ronic comorbidities such as diabetes and chronic kidney disease that compromise thermoregulation.11), 12), 25) Older adults exhibit blunted perception of thermal discomfort, reducing their likelihood of in
+
+
+Occurrence 3 (Line 57):
+d chronic comorbidities such as cardiovascular disease and diabetes that compromise heat adaptation.11), 12) Among older adults, those living alone constitute an exceptionally high-risk subgroup. Internationa
+
+
+Occurrence 4 (Line 133):
+chronic comorbidities such as diabetes and chronic kidney disease that compromise thermoregulation.11), 12), 25) Older adults exhibit blunted perception of thermal discomfort, reducing their likelihood of in
+
+================================================================================
+
+Citation #13 (found 6 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 57):
+duals living alone experiencing 2- to 3-fold elevated mortality compared to those living with family.13), 14)
+
+Multiple mechanisms may explain the elevated heat vulnerability of elderly solo households. F
+
+
+Occurrence 2 (Line 137):
+os ranging from 2.0 to 3.5 for elderly individuals living alone compared to those living with family.13), 14), 31)
+
+Fourth, limited access to heat-health information may reduce awareness among elderly sol
+
+
+Occurrence 3 (Line 143):
+ne had 2- to 3-fold elevated mortality across multiple countries, including France, Italy, and Spain.13), 14), 31)
+
+In Japan, previous studies have examined individual-level risk factors for heatstroke, c
+
+
+Occurrence 4 (Line 57):
+uals living alone experiencing 2- to 3-fold elevated mortality compared to those living with family.13), 14)
+
+Multiple mechanisms may explain the elevated heat vulnerability of elderly solo households. First,
+
+
+Occurrence 5 (Line 137):
+s ranging from 2.0 to 3.5 for elderly individuals living alone compared to those living with family.13), 14), 31)
+
+Fourth, limited access to heat-health information may reduce awareness among elderly solo hou
+
+
+Occurrence 6 (Line 143):
+e had 2- to 3-fold elevated mortality across multiple countries, including France, Italy, and Spain.13), 14), 31)
+
+In Japan, previous studies have examined individual-level risk factors for heatstroke, consis
+
+================================================================================
+
+Citation #14 (found 8 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 57):
+s living alone experiencing 2- to 3-fold elevated mortality compared to those living with family.13), 14)
+
+Multiple mechanisms may explain the elevated heat vulnerability of elderly solo households. First,
+
+
+Occurrence 2 (Line 95):
+nificance was defined as *p* < 0.05 (two-sided). All analyses were performed using Python (version 3.14) with the `statsmodels` library (version 0.14) and `matplotlib` for visualization.
+
+This study used
+
+
+Occurrence 3 (Line 95):
+). All analyses were performed using Python (version 3.14) with the `statsmodels` library (version 0.14) and `matplotlib` for visualization.
+
+This study used publicly available aggregate data; individual
+
+
+Occurrence 4 (Line 137):
+anging from 2.0 to 3.5 for elderly individuals living alone compared to those living with family.13), 14), 31)
+
+Fourth, limited access to heat-health information may reduce awareness among elderly solo hou
+
+
+Occurrence 5 (Line 143):
+ad 2- to 3-fold elevated mortality across multiple countries, including France, Italy, and Spain.13), 14), 31)
+
+In Japan, previous studies have examined individual-level risk factors for heatstroke, consis
+
+
+Occurrence 6 (Line 57):
+uals living alone experiencing 2- to 3-fold elevated mortality compared to those living with family.13), 14)
+
+Multiple mechanisms may explain the elevated heat vulnerability of elderly solo households. First,
+
+
+Occurrence 7 (Line 137):
+s ranging from 2.0 to 3.5 for elderly individuals living alone compared to those living with family.13), 14), 31)
+
+Fourth, limited access to heat-health information may reduce awareness among elderly solo hou
+
+
+Occurrence 8 (Line 143):
+e had 2- to 3-fold elevated mortality across multiple countries, including France, Italy, and Spain.13), 14), 31)
+
+In Japan, previous studies have examined individual-level risk factors for heatstroke, consis
+
+================================================================================
+
+Citation #15 (found 4 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 59):
+strained by electricity costs, particularly among low-income older adults reliant on public pensions.15), 16) Individuals living alone lack family members who might encourage air conditioning use or help
+
+
+Occurrence 2 (Line 135):
+one. Although air conditioning ownership exceeds 90% in Japan, usage is limited by electricity costs.15), 16) A national survey found that approximately 30% of older adults report reducing air conditionin
+
+
+Occurrence 3 (Line 59):
+trained by electricity costs, particularly among low-income older adults reliant on public pensions.15), 16) Individuals living alone lack family members who might encourage air conditioning use or help cover
+
+
+Occurrence 4 (Line 135):
+ne. Although air conditioning ownership exceeds 90% in Japan, usage is limited by electricity costs.15), 16) A national survey found that approximately 30% of older adults report reducing air conditioning use
+
+================================================================================
+
+Citation #16 (found 5 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 59):
+ined by electricity costs, particularly among low-income older adults reliant on public pensions.15), 16) Individuals living alone lack family members who might encourage air conditioning use or help cover
+
+
+Occurrence 2 (Line 135):
+Although air conditioning ownership exceeds 90% in Japan, usage is limited by electricity costs.15), 16) A national survey found that approximately 30% of older adults report reducing air conditioning use
+
+
+Occurrence 3 (Line 173):
+ral mismatch, although air conditioning ownership rates in Japan have been stable at >90% since 2010.16)
+
+---
+
+# Conclusions
+
+Elderly solo household rate was independently and robustly associated with hea
+
+
+Occurrence 4 (Line 59):
+trained by electricity costs, particularly among low-income older adults reliant on public pensions.15), 16) Individuals living alone lack family members who might encourage air conditioning use or help cover
+
+
+Occurrence 5 (Line 135):
+ne. Although air conditioning ownership exceeds 90% in Japan, usage is limited by electricity costs.15), 16) A national survey found that approximately 30% of older adults report reducing air conditioning use
+
+================================================================================
+
+Citation #17 (found 4 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 59):
+could detect early warning signs of heat stress, such as confusion, dehydration, or reduced activity.17), 18) Third, limited access to heat-health information may reduce awareness of preventive measures.
+
+
+Occurrence 2 (Line 137):
+with others who could detect early warning signs such as confusion, lethargy, or reduced oral intake.17), 18) In contrast, elderly individuals living with family members benefit from continuous informal m
+
+
+Occurrence 3 (Line 59):
+ould detect early warning signs of heat stress, such as confusion, dehydration, or reduced activity.17), 18) Third, limited access to heat-health information may reduce awareness of preventive measures. Publi
+
+
+Occurrence 4 (Line 137):
+ith others who could detect early warning signs such as confusion, lethargy, or reduced oral intake.17), 18) In contrast, elderly individuals living with family members benefit from continuous informal monito
+
+================================================================================
+
+Citation #18 (found 4 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 59):
+d detect early warning signs of heat stress, such as confusion, dehydration, or reduced activity.17), 18) Third, limited access to heat-health information may reduce awareness of preventive measures. Publi
+
+
+Occurrence 2 (Line 137):
+others who could detect early warning signs such as confusion, lethargy, or reduced oral intake.17), 18) In contrast, elderly individuals living with family members benefit from continuous informal monito
+
+
+Occurrence 3 (Line 59):
+ould detect early warning signs of heat stress, such as confusion, dehydration, or reduced activity.17), 18) Third, limited access to heat-health information may reduce awareness of preventive measures. Publi
+
+
+Occurrence 4 (Line 137):
+ith others who could detect early warning signs such as confusion, lethargy, or reduced oral intake.17), 18) In contrast, elderly individuals living with family members benefit from continuous informal monito
+
+================================================================================
+
+Citation #19 (found 4 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 59):
+der adults with low digital literacy and those without family support may not receive these messages.19)
+
+Despite these theoretical considerations, no nationwide study has examined the association between
+
+
+Occurrence 2 (Line 139):
+gital literacy and those without family members to relay information may not receive timely warnings.19), 21), 36) Furthermore, heat-health messages often require health literacy to translate general warn
+
+
+Occurrence 3 (Line 159):
+useholds. Current public health communications often assume internet access and high health literacy.19) Alternative dissemination strategies—including postal mail, fixed-line telephone hotlines, and tele
+
+
+Occurrence 4 (Line 139):
+ital literacy and those without family members to relay information may not receive timely warnings.19), 21), 36) Furthermore, heat-health messages often require health literacy to translate general warnings
+
+================================================================================
+
+Citation #20 (found 4 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 61):
+vel risk factors (e.g., age, pre-existing disease, outdoor work) or examined specific municipalities,20), 21) but prefecture-level ecological analyses incorporating social vulnerability metrics have been
+
+
+Occurrence 2 (Line 145):
+s for heatstroke, consistently identifying advanced age and pre-existing comorbidities as predictors.20), 30) However, most prior research has focused on emergency ambulance transport data or hospital adm
+
+
+Occurrence 3 (Line 61):
+el risk factors (e.g., age, pre-existing disease, outdoor work) or examined specific municipalities,20), 21) but prefecture-level ecological analyses incorporating social vulnerability metrics have been lacki
+
+
+Occurrence 4 (Line 145):
+for heatstroke, consistently identifying advanced age and pre-existing comorbidities as predictors.20), 30) However, most prior research has focused on emergency ambulance transport data or hospital admissio
+
+================================================================================
+
+Citation #21 (found 6 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 61):
+risk factors (e.g., age, pre-existing disease, outdoor work) or examined specific municipalities,20), 21) but prefecture-level ecological analyses incorporating social vulnerability metrics have been lacki
+
+
+Occurrence 2 (Line 139):
+l literacy and those without family members to relay information may not receive timely warnings.19), 21), 36) Furthermore, heat-health messages often require health literacy to translate general warnings
+
+
+Occurrence 3 (Line 145):
+mbulance transport data or hospital admissions in specific municipalities, limiting generalizability.21), 31) To our knowledge, this is the first nationwide ecological study to quantify the association be
+
+
+Occurrence 4 (Line 61):
+el risk factors (e.g., age, pre-existing disease, outdoor work) or examined specific municipalities,20), 21) but prefecture-level ecological analyses incorporating social vulnerability metrics have been lacki
+
+
+Occurrence 5 (Line 139):
+ital literacy and those without family members to relay information may not receive timely warnings.19), 21), 36) Furthermore, heat-health messages often require health literacy to translate general warnings
+
+
+Occurrence 6 (Line 145):
+bulance transport data or hospital admissions in specific municipalities, limiting generalizability.21), 31) To our knowledge, this is the first nationwide ecological study to quantify the association between
+
+================================================================================
+
+Citation #22 (found 2 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 83):
+03, following established methods for estimating outdoor WBGT from standard meteorological variables.22), 23)
+
+## 5. Additional Covariates
+
+Air conditioning prevalence (proportion of households owning air
+
+
+Occurrence 2 (Line 83):
+3, following established methods for estimating outdoor WBGT from standard meteorological variables.22), 23)
+
+## 5. Additional Covariates
+
+Air conditioning prevalence (proportion of households owning air cond
+
+================================================================================
+
+Citation #23 (found 2 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 83):
+following established methods for estimating outdoor WBGT from standard meteorological variables.22), 23)
+
+## 5. Additional Covariates
+
+Air conditioning prevalence (proportion of households owning air cond
+
+
+Occurrence 2 (Line 83):
+3, following established methods for estimating outdoor WBGT from standard meteorological variables.22), 23)
+
+## 5. Additional Covariates
+
+Air conditioning prevalence (proportion of households owning air cond
+
+================================================================================
+
+Citation #24 (found 1 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 93):
+r each prefecture and excluded observations exceeding the conventional threshold (4/N, where N = 42).24) (2) **Tokyo exclusion analysis**: Because Tokyo is an extreme outlier in population density and urb
+
+================================================================================
+
+Citation #25 (found 1 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 133):
+comorbidities such as diabetes and chronic kidney disease that compromise thermoregulation.11), 12), 25) Older adults exhibit blunted perception of thermal discomfort, reducing their likelihood of initiat
+
+================================================================================
+
+Citation #26 (found 1 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 133):
+such as air conditioning use or fluid intake until physiological decompensation has already occurred.26)
+
+Second, economic barriers constrain air conditioning use among older adults living alone. Although
+
+================================================================================
+
+Citation #27 (found 2 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 135):
+portion is higher among those living alone who lack family members to share costs or encourage usage.27), 28) During the 2018 Japan heat wave, which resulted in 1,581 heatstroke deaths, post-event surveys
+
+
+Occurrence 2 (Line 135):
+ortion is higher among those living alone who lack family members to share costs or encourage usage.27), 28) During the 2018 Japan heat wave, which resulted in 1,581 heatstroke deaths, post-event surveys reve
+
+================================================================================
+
+Citation #28 (found 2 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 135):
+ion is higher among those living alone who lack family members to share costs or encourage usage.27), 28) During the 2018 Japan heat wave, which resulted in 1,581 heatstroke deaths, post-event surveys reve
+
+
+Occurrence 2 (Line 135):
+ortion is higher among those living alone who lack family members to share costs or encourage usage.27), 28) During the 2018 Japan heat wave, which resulted in 1,581 heatstroke deaths, post-event surveys reve
+
+================================================================================
+
+Citation #29 (found 5 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 135):
+that many elderly decedents had air conditioning units but were not using them at the time of death.29)
+
+Third, social isolation delays recognition and treatment of heat illness. Older adults living alon
+
+
+Occurrence 2 (Line 143):
+rhoods with high proportions of elderly individuals living alone experienced the highest death rates.29), 34) Similarly, the 2003 European heat wave demonstrated that elderly individuals living alone had
+
+
+Occurrence 3 (Line 147):
+afternoon rest periods, light clothing) that reduce heat illness risk despite high climatic exposure.29)
+
+The stratified analysis revealed effect modification by aging rate, with stronger associations obs
+
+
+Occurrence 4 (Line 155):
+Vulnerability Index that incorporates social isolation metrics, providing a model for Japan to adapt.29)
+
+Third, economic subsidies for air conditioning use among low-income elderly solo households should
+
+
+Occurrence 5 (Line 143):
+hoods with high proportions of elderly individuals living alone experienced the highest death rates.29), 34) Similarly, the 2003 European heat wave demonstrated that elderly individuals living alone had 2- to
+
+================================================================================
+
+Citation #30 (found 6 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 137):
+t from continuous informal monitoring, prompt hydration assistance, and earlier medical help-seeking.30) The 2003 European heat wave—which caused approximately 70,000 excess deaths—demonstrated that socia
+
+
+Occurrence 2 (Line 145):
+r heatstroke, consistently identifying advanced age and pre-existing comorbidities as predictors.20), 30) However, most prior research has focused on emergency ambulance transport data or hospital admissio
+
+
+Occurrence 3 (Line 149):
+y awareness available in "super-aged" prefectures where age-friendly services are more prevalent.34), 30) Future research should explore whether community-level aging rate moderates the effect of individua
+
+
+Occurrence 4 (Line 159):
+ision public service announcements—should be prioritized for reaching socially isolated older adults.30)
+
+## 5. Strengths
+
+This study has several strengths. We used nationally representative administrativ
+
+
+Occurrence 5 (Line 145):
+for heatstroke, consistently identifying advanced age and pre-existing comorbidities as predictors.20), 30) However, most prior research has focused on emergency ambulance transport data or hospital admissio
+
+
+Occurrence 6 (Line 149):
+nity awareness available in "super-aged" prefectures where age-friendly services are more prevalent.34), 30) Future research should explore whether community-level aging rate moderates the effect of individua
+
+================================================================================
+
+Citation #31 (found 7 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 137):
+g from 2.0 to 3.5 for elderly individuals living alone compared to those living with family.13), 14), 31)
+
+Fourth, limited access to heat-health information may reduce awareness among elderly solo househol
+
+
+Occurrence 2 (Line 143):
+to 3-fold elevated mortality across multiple countries, including France, Italy, and Spain.13), 14), 31)
+
+In Japan, previous studies have examined individual-level risk factors for heatstroke, consistentl
+
+
+Occurrence 3 (Line 145):
+ance transport data or hospital admissions in specific municipalities, limiting generalizability.21), 31) To our knowledge, this is the first nationwide ecological study to quantify the association between
+
+
+Occurrence 4 (Line 153):
+e Ministry of the Environment in 2022, includes heat alert systems and public awareness campaigns.7), 31) However, these interventions rely on mass communication channels that may not reach elderly solo ho
+
+
+Occurrence 5 (Line 167):
+allacy: associations observed at the prefecture level may not reflect individual-level relationships.31) We cannot establish whether elderly individuals living alone within a prefecture have higher infusi
+
+
+Occurrence 6 (Line 145):
+bulance transport data or hospital admissions in specific municipalities, limiting generalizability.21), 31) To our knowledge, this is the first nationwide ecological study to quantify the association between
+
+
+Occurrence 7 (Line 153):
+the Ministry of the Environment in 2022, includes heat alert systems and public awareness campaigns.7), 31) However, these interventions rely on mass communication channels that may not reach elderly solo ho
+
+================================================================================
+
+Citation #32 (found 7 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 139):
+not thirsty"), and older adults living alone lack informal caregivers to facilitate this translation.32)
+
+## 3. Comparison with Previous Studies
+
+Our findings align with and extend international evidence
+
+
+Occurrence 2 (Line 147):
+at islands, housing quality, and outdoor activity patterns vary substantially within prefectures.36), 32) Third, behavioral adaptation may attenuate the climate–health relationship: prefectures with histor
+
+
+Occurrence 3 (Line 153):
+in which community health workers or volunteers conduct daily welfare checks during heat alerts.36), 32)
+
+Second, social vulnerability indices—particularly elderly solo household rate—should be integrated
+
+
+Occurrence 4 (Line 171):
+rban heat islands, housing insulation, tree canopy coverage) encountered by individual residents.36), 32)
+
+Sixth, the 2020 study period coincided with the COVID-19 pandemic, which may have altered healthca
+
+
+Occurrence 5 (Line 147):
+heat islands, housing quality, and outdoor activity patterns vary substantially within prefectures.36), 32) Third, behavioral adaptation may attenuate the climate–health relationship: prefectures with histor
+
+
+Occurrence 6 (Line 153):
+"), in which community health workers or volunteers conduct daily welfare checks during heat alerts.36), 32)
+
+Second, social vulnerability indices—particularly elderly solo household rate—should be integrated
+
+
+Occurrence 7 (Line 171):
+(urban heat islands, housing insulation, tree canopy coverage) encountered by individual residents.36), 32)
+
+Sixth, the 2020 study period coincided with the COVID-19 pandemic, which may have altered healthca
+
+================================================================================
+
+Citation #34 (found 5 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 143):
+ds with high proportions of elderly individuals living alone experienced the highest death rates.29), 34) Similarly, the 2003 European heat wave demonstrated that elderly individuals living alone had 2- to
+
+
+Occurrence 2 (Line 149):
+unity awareness available in "super-aged" prefectures where age-friendly services are more prevalent.34), 30) Future research should explore whether community-level aging rate moderates the effect of indi
+
+
+Occurrence 3 (Line 157):
+ograms for vulnerable older adults, but coverage remains limited and inconsistent across prefectures.34) Given the strong association between elderly solo household rate and heat-related healthcare utiliz
+
+
+Occurrence 4 (Line 143):
+hoods with high proportions of elderly individuals living alone experienced the highest death rates.29), 34) Similarly, the 2003 European heat wave demonstrated that elderly individuals living alone had 2- to
+
+
+Occurrence 5 (Line 149):
+nity awareness available in "super-aged" prefectures where age-friendly services are more prevalent.34), 30) Future research should explore whether community-level aging rate moderates the effect of individua
+
+================================================================================
+
+Citation #36 (found 8 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 139):
+eracy and those without family members to relay information may not receive timely warnings.19), 21), 36) Furthermore, heat-health messages often require health literacy to translate general warnings ("avo
+
+
+Occurrence 2 (Line 147):
+n heat islands, housing quality, and outdoor activity patterns vary substantially within prefectures.36), 32) Third, behavioral adaptation may attenuate the climate–health relationship: prefectures with h
+
+
+Occurrence 3 (Line 153):
+i"), in which community health workers or volunteers conduct daily welfare checks during heat alerts.36), 32)
+
+Second, social vulnerability indices—particularly elderly solo household rate—should be integ
+
+
+Occurrence 4 (Line 171):
+e (urban heat islands, housing insulation, tree canopy coverage) encountered by individual residents.36), 32)
+
+Sixth, the 2020 study period coincided with the COVID-19 pandemic, which may have altered hea
+
+
+Occurrence 5 (Line 173):
+pandemic lockdowns, potentially reducing the capture of heat-related illness in administrative data.36) Finally, the use of 2014 air conditioning prevalence data as a covariate introduces temporal mismat
+
+
+Occurrence 6 (Line 147):
+heat islands, housing quality, and outdoor activity patterns vary substantially within prefectures.36), 32) Third, behavioral adaptation may attenuate the climate–health relationship: prefectures with histor
+
+
+Occurrence 7 (Line 153):
+"), in which community health workers or volunteers conduct daily welfare checks during heat alerts.36), 32)
+
+Second, social vulnerability indices—particularly elderly solo household rate—should be integrated
+
+
+Occurrence 8 (Line 171):
+(urban heat islands, housing insulation, tree canopy coverage) encountered by individual residents.36), 32)
+
+Sixth, the 2020 study period coincided with the COVID-19 pandemic, which may have altered healthca
+
+================================================================================
+
+Citation #37 (found 1 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 121):
+association was statistically significant (β = 1,254.30; 95% CI, 5.39–2,503.21; R² = 0.173; *p* = 0.037). In the high aging rate stratum (N = 24, aging rate ≥31.3%), the association was not statistically
+
+================================================================================
+
+Citation #39 (found 1 times)
+--------------------------------------------------------------------------------
+
+Occurrence 1 (Line 105):
+The mean infusion therapy utilization rate was 7,732 ± 1,771 per 100,000 population (range: 4,533–12,039). The mean number of heatwave days (maximum temperature ≥35°C) was 14.2 ± 9.8 days (range: 0.3–41.5
+
+================================================================================
+
