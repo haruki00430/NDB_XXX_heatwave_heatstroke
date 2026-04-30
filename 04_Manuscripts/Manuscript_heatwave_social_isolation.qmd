@@ -6,8 +6,8 @@ author:
   - name: "[Author 2]"
     affiliation: "[Affiliation 2]"
 date: "2026-03-01"
-bibliography: references.bib
-csl: vancouver.csl
+bibliography: ../references.bib
+csl: ../vancouver.csl
 format:
   html:
     toc: true
@@ -45,6 +45,9 @@ The mean elderly solo household rate across prefectures was 13.4 ± 1.7% (range:
 Elderly solo household rate was independently and robustly associated with heat-related infusion therapy utilization across Japanese prefectures. The magnitude and statistical significance of this association persisted across multiple sensitivity analyses, demonstrating that social isolation among older adults represents a critical determinant of heat vulnerability at the community level, independent of climatic exposure. These findings suggest that heat-health interventions should prioritize socially isolated older adults through targeted outreach, neighbor-checking programs, and heat-health information dissemination adapted to low-literacy populations. National heat action plans, including Japan's "Heat Illness Prevention Action Plan," should integrate social vulnerability indices, particularly elderly solo household rate into heat alert systems and resource allocation strategies. Future individual-level studies with mediation analysis and longitudinal designs are warranted to delineate the specific pathways (economic barriers, social isolation, information access) underlying this population-level association.
 
 **Keywords**: heat-related illness; social isolation; elderly solo household; infusion therapy; ecological study; Japan; NDB Open Data
+
+
+**Keywords:** heat-related illness; ecological study; Japan; health insurance claims
 
 ---
 
