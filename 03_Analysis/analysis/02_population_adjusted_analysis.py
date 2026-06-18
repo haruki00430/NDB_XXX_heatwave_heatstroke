@@ -1,12 +1,30 @@
 """
-人口調整済みOLS回帰分析（人口10万人あたり）
+Script 02: Population-adjusted OLS regression (rates per 100,000 population)
 
-Data Sources:
-1. prefecture_heatwave_summary.csv - 気象データ
-2. elderly_solo_household_rate.csv - 高齢者単独世帯率
-3. aircon_prevalence_2014.csv - エアコン普及率
-4. emergency_infusion_prefecture.csv - 救急医療管理加算・輸液算定回数
-5. prefecture_population_2020.csv - 都道府県別人口（NEW）
+Recalculates all outcome and exposure variables as population-adjusted rates
+using 2020 Census population denominators, then re-runs OLS regression.
+This is the primary analysis model reported in the manuscript.
+
+Data sources:
+  1. prefecture_heatwave_summary.csv   - Weather data (heatwave days, WBGT)
+  2. elderly_solo_household_rate.csv   - Elderly solo household rate
+  3. aircon_prevalence_2014.csv        - Air conditioning prevalence
+  4. emergency_infusion_prefecture.csv - NDB infusion therapy claims (G004)
+  5. prefecture_population_2020.csv    - Prefecture population (Census 2020)
+
+---
+
+スクリプト 02: 人口調整済み OLS 回帰（人口 10 万人あたり）
+
+2020 年国勢調査の人口を分母として全変数を人口調整率に換算し、
+OLS 回帰を再実行します。本スクリプトが論文の主解析モデルに対応します。
+
+データソース:
+  1. prefecture_heatwave_summary.csv   - 気象データ（猛暑日数・WBGT）
+  2. elderly_solo_household_rate.csv   - 高齢者単独世帯率
+  3. aircon_prevalence_2014.csv        - エアコン普及率
+  4. emergency_infusion_prefecture.csv - NDB 輸液算定回数（G004）
+  5. prefecture_population_2020.csv    - 都道府県別人口（国勢調査 2020）
 """
 
 import pandas as pd

@@ -1,13 +1,27 @@
 """
-ステップワイズ回帰と単回帰分析（変数選択）
+Script 04: Stepwise selection and univariate regression (variable selection)
 
-目的:
-- 多重共線性を回避するため、ステップワイズ回帰で変数を絞り込む
-- 単回帰で各変数の独立した効果を評価
-- AIC/BICで最適モデルを選択
+Runs stepwise forward selection and exhaustive univariate regression to
+evaluate the independent association of each predictor with infusion therapy
+utilization, bypassing multicollinearity by examining one predictor at a time.
+Model selection uses AIC/BIC criteria.
 
-Data Source:
-- population_adjusted_dataset.csv（人口調整済み）
+Data source:
+  - population_adjusted_dataset.csv (population-adjusted rates)
+
+This script generates Table 2 of the manuscript (univariate regression results).
+
+---
+
+スクリプト 04: ステップワイズ回帰と単回帰分析（変数選択）
+
+多重共線性を回避するため、各変数を個別に検討する単回帰と
+前進法ステップワイズ選択を実行します。モデル選択には AIC/BIC を使用します。
+
+データソース:
+  - population_adjusted_dataset.csv（人口調整済みレート）
+
+本スクリプトが論文 Table 2（単回帰結果）を生成します。
 """
 
 import pandas as pd

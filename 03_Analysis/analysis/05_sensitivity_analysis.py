@@ -1,10 +1,27 @@
 """
-感度分析・層別解析（論文の質を高める）
+Script 05: Sensitivity analysis and stratified analysis
 
-目的:
-- 外れ値の影響を評価（Cookの距離 > 1）
-- 層別解析（都市部 vs 農村部、高齢化率の高低）
-- 改良された散布図（都道府県名ラベル付き、95%CI表示）
+Assesses robustness of the primary association (elderly solo household rate
+→ infusion therapy utilization) through three approaches:
+  1. Outlier exclusion: Cook's distance threshold 4/N (= 0.085 for N=47)
+  2. Tokyo exclusion: removes Japan's largest metropolis
+  3. Stratified analysis: splits prefectures at median elderly solo HH rate (12.3%)
+
+Generates Cook's distance plot, stratified scatter plot, and labeled scatter plot
+(Figures 1–3 in the manuscript; Table 3 sensitivity results).
+
+---
+
+スクリプト 05: 感度分析・層別解析
+
+主要関連（高齢者単独世帯率 → 輸液療法実施率）の頑健性を
+以下の 3 つのアプローチで評価します：
+  1. 外れ値除外: Cook の距離閾値 4/N（N=47 の場合 0.085）
+  2. 東京除外: 最大都市・東京を除外
+  3. 層別解析: 高齢者単独世帯率の中央値（12.3%）で都道府県を二分
+
+Cook の距離プロット・層別散布図・ラベル付き散布図を生成します
+（論文 Figure 1–3 および Table 3 感度分析結果）。
 """
 
 import pandas as pd

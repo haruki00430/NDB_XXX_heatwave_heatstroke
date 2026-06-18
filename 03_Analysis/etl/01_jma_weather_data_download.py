@@ -1,9 +1,27 @@
 """
-気象庁「過去の気象データ検索」から47都道府県庁所在地の気象データを自動取得
+ETL Script 01: JMA weather data download
+
+Automatically downloads meteorological data from the Japan Meteorological Agency
+(JMA) historical data portal for the prefectural capitals of all 47 prefectures.
+
+Retrieved data:
+  1. Daily maximum temperature (June–September 2023)
+     → Used to calculate heatwave days (days with max temp ≥35°C)
+  2. Monthly mean temperature and relative humidity (June–September 2023)
+     → Used to calculate WBGT approximation
+
+Data source: https://www.data.jma.go.jp/obd/stats/etrn/index.php
+
+---
+
+ETL スクリプト 01: 気象庁データ自動ダウンロード
+
+気象庁「過去の気象データ検索」から 47 都道府県庁所在地の
+気象データを自動取得します。
 
 取得データ:
-1. 日最高気温（2023年6-9月）→ 猛暑日数（35℃以上日数）を算出
-2. 月平均気温・月平均湿度（2023年6-9月）→ WBGT指数を算出
+  1. 日最高気温（2023 年 6–9 月）→ 猛暑日数（35℃以上日数）算出に使用
+  2. 月平均気温・月平均湿度（2023 年 6–9 月）→ WBGT 指数算出に使用
 
 データソース: https://www.data.jma.go.jp/obd/stats/etrn/index.php
 """

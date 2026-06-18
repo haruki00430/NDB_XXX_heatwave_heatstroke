@@ -1,11 +1,31 @@
 """
-気象データ集計：47都道府県の猛暑日数とWBGT指数を算出
+ETL Script 03: Weather data aggregation — prefecture-level summary
+
+Aggregates daily JMA station data to produce prefecture-level heatwave
+and WBGT summary statistics for the 2023 summer season (June–September).
+
+Input:
+  - jma_daily_temperature_2023_summer.csv
+    (daily records for 47 prefectures, June–September 2023)
+
+Output:
+  - prefecture_heatwave_summary.csv
+    (heatwave days and mean WBGT for each of 47 prefectures)
+
+---
+
+ETL スクリプト 03: 気象データ集計 — 都道府県別サマリー
+
+JMA の日別ステーションデータを集計し、2023 年夏季（6–9 月）の
+都道府県別猛暑日数・WBGT サマリー統計を生成します。
 
 入力:
-- jma_daily_temperature_2023_summer.csv（47都道府県×6-9月の日別データ）
+  - jma_daily_temperature_2023_summer.csv
+    （47 都道府県 × 6–9 月の日別データ）
 
 出力:
-- prefecture_heatwave_summary.csv（47都道府県の猛暑日数・WBGT指数）
+  - prefecture_heatwave_summary.csv
+    （47 都道府県別の猛暑日数・平均 WBGT）
 """
 
 import pandas as pd

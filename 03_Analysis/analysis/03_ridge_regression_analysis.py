@@ -1,13 +1,29 @@
 """
-Ridge回帰分析（多重共線性に対処）
+Script 03: Ridge regression analysis to address multicollinearity
 
-目的:
-- OLS回帰で検出された強い多重共線性（VIF > 10）に対処
-- L2正則化により係数の推定を安定化
-- クロスバリデーションで最適な正則化パラメータ（alpha）を選択
+Applies L2-regularized (ridge) regression as a supplementary analysis to
+handle the strong multicollinearity detected among ecological predictors
+(VIF > 10 in preliminary OLS models). Optimal regularization parameter
+(alpha) is selected via cross-validation.
 
-Data Source:
-- population_adjusted_dataset.csv（人口調整済み）
+Data source:
+  - population_adjusted_dataset.csv (population-adjusted rates)
+
+Note: Ridge regression results are provided as supplementary material;
+the primary analysis uses simple univariate OLS (Script 04/05).
+
+---
+
+スクリプト 03: Ridge 回帰分析（多重共線性への対処）
+
+主解析（OLS）で検出された強い多重共線性（VIF > 10）に対処するための
+補助解析として L2 正則化回帰（Ridge）を実行します。
+最適正則化パラメータ（alpha）はクロスバリデーションで選択します。
+
+データソース:
+  - population_adjusted_dataset.csv（人口調整済みレート）
+
+注記: Ridge 回帰結果は補足資料として提示。主解析は単回帰 OLS（スクリプト 04/05）。
 """
 
 import pandas as pd

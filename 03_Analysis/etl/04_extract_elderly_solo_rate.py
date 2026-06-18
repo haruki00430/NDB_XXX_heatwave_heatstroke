@@ -1,14 +1,36 @@
 """
-国勢調査2020年から高齢者単独世帯率を抽出
+ETL Script 04: Elderly solo household rate extraction from Census 2020
 
-データソース: C:\\Users\\user\\SharedWorkspace\\projects\\NDB_Research_Hub\\02_Data\\raw\\Statistics_Bureau\\Census_2020\\tblT001141H01-47.txt
+Extracts prefecture-level elderly solo household rate from the 2020 National
+Census microdata file. Elderly solo household rate is defined as the proportion
+of all households consisting of one person aged ≥65 years.
 
-必要なカラム:
-- T001141038: 一般世帯数
-- T001141050: 65歳以上単独世帯数
+Data source: Statistics Bureau of Japan, Census 2020
+  File: tblT001141H01-47.txt
+
+Required columns:
+  - T001141038: Total general households
+  - T001141050: Solo households with person aged ≥65 years
+
+Output:
+  - elderly_solo_household_rate.csv (47 prefectures)
+
+---
+
+ETL スクリプト 04: 国勢調査 2020 年から高齢者単独世帯率を抽出
+
+2020 年国勢調査のマイクロデータファイルから都道府県別の
+高齢者単独世帯率（65 歳以上の単独世帯が全世帯に占める割合）を抽出します。
+
+データソース: 総務省統計局 国勢調査 2020 年
+  ファイル: tblT001141H01-47.txt
+
+使用カラム:
+  - T001141038: 一般世帯数（総数）
+  - T001141050: 65 歳以上単独世帯数
 
 出力:
-- elderly_solo_household_rate.csv (47都道府県)
+  - elderly_solo_household_rate.csv（47 都道府県）
 """
 
 import pandas as pd

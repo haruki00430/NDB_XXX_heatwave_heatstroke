@@ -1,12 +1,29 @@
 """
-気象庁データ処理：猛暑日数とWBGT指数の算出
+ETL Script 02: JMA data processing — heatwave days and WBGT calculation
+
+Processes raw JMA daily temperature data downloaded by Script 01.
+Computes prefecture-level heatwave days and WBGT approximation.
+
+Input:
+  - test_tokyo_daily_table_0.csv (daily temperature records)
+
+Output:
+  - Heatwave days (count of days with maximum temperature ≥35°C)
+  - WBGT approximation (Tw = T − (100 − RH)/5; WBGT = 0.7×Tw + 0.3×T)
+
+---
+
+ETL スクリプト 02: 気象庁データ処理 — 猛暑日数・WBGT 算出
+
+スクリプト 01 でダウンロードした JMA 日別気温データを処理し、
+都道府県別の猛暑日数と WBGT 近似値を算出します。
 
 入力:
-- test_tokyo_daily_table_0.csv（日別気温データ）
+  - test_tokyo_daily_table_0.csv（日別気温データ）
 
 出力:
-- 猛暑日数（35℃以上日数）
-- WBGT指数（暑さ指数）
+  - 猛暑日数（日最高気温 35℃ 以上の日数）
+  - WBGT 近似値（Tw = T − (100 − RH)/5; WBGT = 0.7×Tw + 0.3×T）
 """
 
 import pandas as pd

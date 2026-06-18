@@ -1,15 +1,34 @@
 """
-猛暑・熱中症データの統合とOLS回帰分析
+Script 01: Data integration and initial OLS regression analysis
+
+Integrates prefecture-level datasets and fits simple OLS regression models
+examining the association between climatic/social predictors and
+dehydration-related healthcare utilization.
+
+Data sources:
+  1. prefecture_heatwave_summary.csv   - Weather data (heatwave days, WBGT)
+  2. elderly_solo_household_rate.csv   - Elderly solo household rate (Census 2020)
+  3. aircon_prevalence_2014.csv        - Air conditioning prevalence
+  4. emergency_infusion_prefecture.csv - NDB infusion therapy claims (G004)
+
+Outcome (Y): Infusion therapy rate ≥500 mL (G004), per 100,000 population
+Predictors (X): Heatwave days, WBGT, elderly solo household rate, AC prevalence
+
+---
+
+スクリプト 01: データ統合と初期 OLS 回帰分析
+
+都道府県別データセットを統合し、気候・社会指標と脱水関連医療利用との
+関連を検討するシンプル OLS 回帰モデルを実行します。
 
 データソース:
-1. prefecture_heatwave_summary.csv - 気象データ（猛暑日数・WBGT指数）
-2. elderly_solo_household_rate.csv - 高齢者単独世帯率
-3. aircon_prevalence_2014.csv - エアコン普及率
-4. emergency_infusion_prefecture.csv - NDB救急医療管理加算・輸液算定回数
+  1. prefecture_heatwave_summary.csv   - 気象データ（猛暑日数・WBGT指数）
+  2. elderly_solo_household_rate.csv   - 高齢者単独世帯率（国勢調査 2020）
+  3. aircon_prevalence_2014.csv        - エアコン普及率
+  4. emergency_infusion_prefecture.csv - NDB 輸液算定回数（G004）
 
-分析モデル:
-- 従属変数（Y）: 夜間休日救急搬送医学管理料、点滴注射500mL以上
-- 独立変数（X）: 猛暑日数、WBGT指数、高齢者単独世帯率、エアコン普及率
+従属変数（Y）: 輸液療法実施率（G004、500 mL 以上）、人口 10 万人あたり
+独立変数（X）: 猛暑日数、WBGT、高齢者単独世帯率、エアコン普及率
 """
 
 import pandas as pd
