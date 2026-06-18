@@ -24,25 +24,42 @@ format:
 
 ## Background
 
-Heat-health warning systems rely mainly on meteorological indicators, including temperature, heatwave frequency, and wet-bulb globe temperature (WBGT). However, severe heat-related outcomes may also reflect social vulnerability. Older adults living alone may be vulnerable through limited monitoring, delayed help-seeking, and barriers to cooling or heat-health information.
-
-## Objective
-
-We examined whether prefectural-level elderly solo household rate, a marker of community-level social isolation, was associated with dehydration-related healthcare utilization and may provide a complementary social vulnerability layer for heat-health surveillance beyond climatic surveillance indicators.
+Heat-health warning systems rely on meteorological indicators including temperature and wet-bulb globe temperature (WBGT), but heat outcomes may also reflect social vulnerability. Older adults living alone face additional risk through limited monitoring, delayed help-seeking, and barriers to cooling. We examined whether prefectural-level elderly solo household rate — a community-level marker of social isolation — was associated with dehydration-related healthcare utilization.
 
 ## Methods
 
-We conducted an ecological study of 47 prefectures using fiscal year 2023 data. Infusion therapy utilization (≥500 mL, procedure code G004) from the 10th National Database (NDB) Open Data was used as a population-level indicator of dehydration-related healthcare utilization. Elderly solo household rate was derived from the 2020 National Census. Heatwave days (maximum temperature ≥35°C) and mean WBGT were calculated from Japan Meteorological Agency data for June–September 2023. Because predictors were collinear, factors were examined separately using simple linear regression and sensitivity analyses.
+We conducted an ecological study of 47 Japanese prefectures using fiscal year 2023 data. Infusion therapy utilization (≥500 mL) from the National Database (NDB) Open Data was used as a population-level indicator of dehydration-related healthcare utilization. Elderly solo household rate was derived from the 2020 National Census. Heatwave days and mean WBGT were calculated from Japan Meteorological Agency data for June–September 2023. Predictors were examined using simple linear regression and sensitivity analyses.
 
 ## Results
 
-Mean elderly solo household rate was 12.6 ± 1.9% (range: 9.4–17.8%), and mean infusion therapy rate was 8,434 ± 2,587 per 100,000 population. Elderly solo household rate was associated with infusion therapy utilization (β = 723.37; 95% CI, 376.52–1,070.21; R² = 0.282; *p* = 0.0001). The association persisted in all sensitivity analyses. Heatwave frequency, WBGT, and air conditioning prevalence were not significant ecological correlates.
+Mean elderly solo household rate was 12.6 ± 1.9% and mean infusion therapy rate was 8,434 ± 2,587 per 100,000 population. Elderly solo household rate was associated with infusion therapy utilization (β = 723.37; 95% CI, 376.52–1,070.21; R² = 0.282; *p* = 0.0001). The association persisted in all sensitivity analyses. Heatwave frequency, WBGT, and air conditioning prevalence were not significant ecological correlates.
 
 ## Conclusions
 
-Community-level social isolation was the only ecological factor significantly associated among examined variables. Heat-health systems using only meteorological thresholds may overlook socially vulnerable communities. Integrating social vulnerability indicators into heat alert systems may improve equitable climate adaptation.
+Community-level social isolation was the only ecological factor significantly associated with infusion therapy utilization. Heat-health systems relying solely on meteorological thresholds may overlook socially vulnerable communities. Integrating social vulnerability indicators may improve equitable climate adaptation.
 
 **Keywords:** heat-health surveillance; social isolation; elderly solo household; dehydration; infusion therapy; ecological study; Japan; NDB Open Data
+
+---
+
+# Key Messages
+
+## What is already known on this topic
+
+- Heat-health warning systems in Japan rely primarily on meteorological indicators such as temperature and wet-bulb globe temperature; social vulnerability is not routinely incorporated into surveillance.
+- Older adults living alone face additional heat risk through limited monitoring, delayed help-seeking, and barriers to cooling and heat-health information.
+- Social isolation was associated with heat-related mortality during the 1995 Chicago and 2003 European heatwaves, but nationwide ecological evidence linking elderly household composition to dehydration-related healthcare utilization in Japan is limited.
+
+## What this study adds
+
+- In a nationwide ecological study of 47 Japanese prefectures, elderly solo household rate — a community-level marker of social isolation — was the only significant predictor of infusion therapy utilization (≥500 mL), a population-level indicator of dehydration-related healthcare; heatwave days, mean wet-bulb globe temperature, and air conditioning prevalence were not significant ecological correlates.
+- The association was robust across multiple sensitivity analyses and was approximately six-fold stronger than that observed for general outpatient utilization rate, suggesting partial specificity for heat-related dehydration beyond general healthcare access.
+
+## How this study might affect research, practice or policy
+
+- Heat-health surveillance systems relying solely on meteorological thresholds may overlook communities where older adults are least able to respond to heat warnings or obtain timely care.
+- Prefectures with high elderly solo household rates may benefit from targeted welfare checks, community-based monitoring programmes, cooling support, and accessible health communication during heat alerts.
+- Integrating routinely available social vulnerability indicators into existing heat-health surveillance may improve equitable climate adaptation in ageing societies.
 
 ---
 
@@ -126,15 +143,9 @@ To assess whether the primary association might reflect general healthcare acces
 
 # Discussion
 
-## 1. Main Findings
-
 Heat-health surveillance has traditionally focused on *where* heat occurs. Our findings suggest that surveillance should also identify *where* people are least able to respond to heat. In this nationwide ecological analysis, elderly solo household rate was robustly associated with infusion therapy utilization, while heatwave days and WBGT were not significant ecological correlates. This pattern suggests that social isolation may capture a surveillance-relevant dimension of heat vulnerability not represented by meteorological hazard alone.
 
-## 2. Social Isolation as a Missing Surveillance Layer
-
 The association is plausible because living alone can amplify heat risk between exposure and care. Older adults may have reduced thermoregulation and blunted thirst perception,10), 11), 24), 25) while living alone may reduce informal prompts to use air conditioning, drink fluids, or seek care. Economic concerns can further limit cooling use despite high air conditioning ownership.14), 15) Social isolation may also delay recognition of confusion, dehydration, or reduced activity, and may limit receipt of digital heat alerts or interpretation of general heat-health advice.16)–19), 29)
-
-## 3. Comparison with Previous Studies and Surveillance Implications
 
 Our findings align with international evidence that social isolation increases heat-related mortality, including the 1995 Chicago and 2003 European heat waves.12), 13), 16), 28) This study extends that literature by using nationwide administrative and census data to link an available household-composition indicator with dehydration-related healthcare utilization.
 
@@ -142,17 +153,11 @@ Japanese studies have identified advanced age and comorbidity as heatstroke risk
 
 The absence of significant associations for heatwave days and WBGT should not be interpreted as evidence that climate is unimportant. Infusion therapy is not heat-specific, prefecture-level climatic averages may miss neighborhood and indoor exposures, and regional heat adaptation may attenuate simple ecological climate-health associations.8), 9), 30) These considerations support combining meteorological indicators with social and built-environment indicators.
 
-## 4. Policy Implications for Heat-Health Surveillance
-
 These findings have implications for heat-health surveillance and climate adaptation policy. WBGT-based alerts remain essential, but they cannot determine who is likely to be missed. Prefectures with high elderly solo household rates could prioritize welfare checks, community-based *Mimamori* programs, cooling support, and accessible, plain-language health communication during heat alerts.
 
 A layered system could combine meteorological hazard forecasts with social vulnerability indicators such as elderly solo household rate and cooling access.26) Such an approach would not replace climate alerts; it would guide where outreach, social care, and clinical preparedness should be intensified. Heat adaptation has primarily been framed as a meteorological problem; our findings suggest it should also be understood as a social care problem, supporting integration of social vulnerability into existing heat-health surveillance rather than replacement of meteorological warning systems.
 
-## 5. Strengths
-
 Strengths include nationwide coverage of all 47 prefectures, use of NDB Open Data with comprehensive insurance claims, and robustness across multiple sensitivity analyses. The ecological design also demonstrates how routinely available social indicators may strengthen heat-health surveillance.
-
-## 6. Limitations
 
 Several limitations should be considered. First, ecological associations may not reflect individual-level relationships. We cannot determine whether individuals living alone within a prefecture had higher infusion therapy utilization than those living with family. Second, this study did not directly evaluate heat warning systems; "socially blind" should be interpreted as a policy hypothesis, not a direct criticism of existing systems. Third, the cross-sectional design precludes causal inference.
 

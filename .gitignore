@@ -90,3 +90,10 @@ _*.txt
 # Windowsの「コピー」コマンドで生成された重複ファイル
 # ----------------------------------------------------------------
 04_Manuscripts/Manuscript_heatwave_social_isolation_final - *.docx
+04_Manuscripts/Are_Heat_Health_Systems_Socially_Blind_main - *.docx
+
+# ----------------------------------------------------------------
+# 外部ドキュメント・投稿規定PDF（再ダウンロード可・第三者著作物）
+# ----------------------------------------------------------------
+04_Manuscripts/Authors*.pdf
+04_Manuscripts/Authors *.pdf
