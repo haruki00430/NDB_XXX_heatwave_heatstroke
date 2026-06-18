@@ -57,3 +57,36 @@ data/raw/MLIT_N03/
 **/MLIT_N03/
 data/raw/**/*.xml
 data/temp/**/*.xml
+
+# ----------------------------------------------------------------
+# 作業用・バックアップファイル
+# ----------------------------------------------------------------
+*.backup
+04_Manuscripts/_*.txt
+_*.txt
+
+# ----------------------------------------------------------------
+# QMDからレンダリングで再生成できるファイル
+# ----------------------------------------------------------------
+04_Manuscripts/Manuscript_heatwave_social_isolation_final.docx
+04_Manuscripts/Manuscript_heatwave_social_isolation_final.pdf
+
+# ----------------------------------------------------------------
+# 旧バージョン・日付付き中間DOCX（最終版 _main.docx のみ残す）
+# ----------------------------------------------------------------
+04_Manuscripts/Manuscript_heatwave_social_isolation_final_20260617.docx
+04_Manuscripts/Are_Heat_Health_Systems_Socially_Blind_20260616TO.docx
+04_Manuscripts/Are_Heat_Health_Systems_Socially_Blind_20260616TO.pdf
+04_Manuscripts/Are_Heat_Health_Systems_Socially_Blind_20260617.docx
+04_Manuscripts/09Are_Heat_Health_Systems_Socially_Blind_full_manuscript.docx
+
+# ----------------------------------------------------------------
+# 内部作業・日本語コメント対応文書（非公開）
+# ----------------------------------------------------------------
+04_Manuscripts/01Are_Heat_Health_Systems_Socially_Blind_20260617_body_comment_response_JP.docx
+04_Manuscripts/01Are_Heat_Health_Systems_Socially_Blind_20260617_body_comment_response_JP.pdf
+
+# ----------------------------------------------------------------
+# Windowsの「コピー」コマンドで生成された重複ファイル
+# ----------------------------------------------------------------
+04_Manuscripts/Manuscript_heatwave_social_isolation_final - *.docx

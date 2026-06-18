@@ -1,0 +1,154 @@
+---
+title: "Response to Reviewer Comments"
+author:
+  - name: "Haruki Saito"
+  - name: "Tetsuya Ohira"
+date: "2026-06-17"
+format:
+  docx:
+    toc: false
+    number-sections: false
+---
+
+**Manuscript Title**: Are Heat-Health Systems Socially Blind? Social Isolation and Dehydration-Related Healthcare Utilization Across Japan
+
+**Authors**: Haruki Saito, Tetsuya Ohira
+
+**Date of Revision**: June 17, 2026
+
+---
+
+We thank the reviewer for the thoughtful and constructive comments on our manuscript. We have carefully considered all points raised and have made revisions accordingly. Below, we provide point-by-point responses. All changes are reflected in the revised manuscript (`Manuscript_heatwave_social_isolation_final.qmd/.docx`). Specific edits are described after each response.
+
+---
+
+## Comment #1 — Journal Selection
+
+**Reviewer Comment:**
+日本の学会英文誌または日本医師会誌への投稿を推奨する。
+
+**Response:**
+We appreciate this guidance. We have reconsidered our target journal in light of this recommendation. Our primary target is now **Journal of Epidemiology** (Japanese Epidemiological Association), which has a strong track record of publishing NDB-based ecological studies and prefecture-level analyses in Japan. As an alternative, we are considering **Environmental Health and Preventive Medicine** (Japanese Society of Occupational Health), whose scope of environment–social vulnerability interactions aligns closely with our framing.
+
+**Changes Made:**
+No changes to the manuscript body. Journal selection will be confirmed at the time of submission.
+
+---
+
+## Comment #13 — Outcome Specificity (G004 Infusion Therapy)
+
+**Reviewer Comment:**
+G004（点滴注射）は熱中症に非特異的なアウトカムである。病名の使用可否、月別データの提示、および当該文章に対する文献の追加が必要である。
+
+**Response:**
+We fully agree that infusion therapy (G004) is not heat-specific, and we have addressed this limitation in several ways.
+
+**Regarding the non-specificity of G004:**
+We acknowledge this limitation explicitly in the manuscript (Limitations, fifth paragraph). We argue that this non-specificity may bias associations *toward the null*, because non-heat causes of dehydration (e.g., gastroenteritis) would dilute any heat-specific signal. The construct validity check against FDMA heatstroke ambulance transport data (Supplementary Figure S1; β = 70.19, 95% CI 36.85–103.53, r = 0.534, *p* < 0.001) supports the use of infusion therapy as a population-level indicator that captures heat-related dehydration at the ecological level.
+
+**Regarding the reference for G004:**
+We have added a reference to the seminal review by Bouchama & Knochel (Reference 11: *N Engl J Med* 2002) in the Methods section (Section 2) to support the clinical basis for using large-volume intravenous infusion as an indicator of moderate-to-severe heat-related dehydration.
+
+**Regarding diagnosis-based data:**
+Prefectural-level NDB Open Data does not include diagnostic codes, precluding heat-specific outcome identification. We have added a sentence in the Limitations acknowledging this constraint explicitly.
+
+**Regarding month-level data:**
+Monthly breakdown of G004 claims is not available in the current NDB Open Data (No. 10) at the prefecture level. Fiscal-year aggregate claims were used as the best available proxy.
+
+**Changes Made:**
+
+- *Methods, Section 2*: Added citation `.11)` after "heat illness or other acute conditions."
+- *Limitations, 5th paragraph*: Clarified the non-specificity limitation and added cross-validation against FDMA data as supportive evidence.
+
+---
+
+## Comment #16 — Heat Exposure Indicators
+
+**Reviewer Comment:**
+急激な気温変化等の熱曝露指標が不十分である。熱中症関連との弱い関連の提示を求める。
+
+**Response:**
+We appreciate this suggestion. In addition to heatwave days (≥35°C) and mean WBGT, we derived four supplementary climate variables from the same Japan Meteorological Agency (JMA) daily temperature data for June–September 2023:
+
+1. **Mean daily maximum temperature** (°C)
+2. **Standard deviation of daily maximum temperature** — as a measure of temperature variability
+3. **Mean diurnal temperature range** (daily maximum minus daily minimum, °C)
+4. **Rapid-change days** — number of days with day-to-day change in maximum temperature ≥5°C
+
+All four variables were examined in univariate regression against infusion therapy utilization. None was statistically significant (all *p* > 0.34; Table 2). These results are consistent with the primary finding that meteorological hazard indicators alone do not explain the prefecture-level pattern of infusion therapy utilization, and reinforce the interpretation that social vulnerability may capture a distinct surveillance-relevant dimension.
+
+**Changes Made:**
+
+- *Methods, Section 4 (Climatic Covariates)*: Added a paragraph describing the four supplementary climate variables and their derivation.
+- *Results, Section 2 (Univariate Regression Analysis)*: Added a sentence reporting that all four additional climate variables were non-significant.
+- *Table 2*: Added rows for the four additional climate variables, with β, 95% CI, *p*, R², and Adj. R².
+
+---
+
+## Comment #21 — Univariate Analysis and Negative Control (Outpatient Utilization Rate)
+
+**Reviewer Comment:**
+単変量解析の弱さが懸念される。受療率（患者調査）との比較による点滴療法の特異性確認を提案する。
+
+**Response:**
+We thank the reviewer for this important methodological suggestion. We have performed the proposed negative control analysis using general outpatient utilization rate derived from the R5 Patient Survey (Ministry of Health, Labour and Welfare; 令和5年患者調査 第36表, per 100,000 population).
+
+**Results of the negative control analysis:**
+
+| Outcome | β | 95% CI | *p* | R² |
+|---------|---|--------|-----|-----|
+| General outpatient utilization rate (negative control) | 123.52 | (44.30, 202.74) | 0.003 | 0.180 |
+| Infusion therapy rate (primary outcome) | 723.37 | (376.52, 1,070.21) | <0.001 | 0.282 |
+
+General outpatient utilization was also significantly associated with elderly solo household rate (*p* = 0.003, R² = 0.180). However, the β coefficient was approximately **six-fold smaller** than that for infusion therapy (123.52 vs. 723.37), and it explained substantially less variance (R² = 0.180 vs. 0.282). These results suggest that while elderly solo household rate does capture some component of general healthcare utilization, the magnitude of its association with infusion therapy is substantially larger than would be expected from general healthcare access alone, supporting **partial specificity** of the primary association for heat-related dehydration. The side-by-side comparison is shown in Supplementary Figure S2.
+
+We acknowledge that the negative control result was also statistically significant (i.e., a clean null was not obtained), and we report this honestly in the manuscript. This finding reinforces the need for caution in causal interpretation, and we have strengthened the corresponding Limitations text accordingly. The present findings should be interpreted as evidence for surveillance prioritization rather than causal evidence of heat-related illness.
+
+**Changes Made:**
+
+- *Results, new Section 7 (Negative Control: Outpatient Utilization Rate)*: Added a paragraph reporting the results of the negative control analysis with β, 95% CI, R², and *p*-values for both outcomes.
+- *Limitations, 5th paragraph*: Updated from "General outpatient utilization was not examined" to the actual results, including quantitative comparison (β six-fold smaller, R² lower), and an explicit statement about partial specificity.
+- *Supplementary Figure S2*: Added a side-by-side scatter plot (elderly solo household rate vs. outpatient utilization rate [left panel] and vs. infusion therapy rate [right panel]).
+
+---
+
+## Comment #38 — Strong/Causal Language
+
+**Reviewer Comment:**
+Conclusions等における断定的・因果的な表現を避けるよう指示。
+
+**Response:**
+We have carefully reviewed all language in the Conclusions and Abstract, and have softened expressions that could be interpreted as implying causality or undue certainty.
+
+Specific changes include:
+
+1. **Conclusions, first paragraph**: Changed "was robustly associated" to "was associated… in univariate analyses. The association was consistent across multiple sensitivity analyses" — explicitly scoping the finding to its analytical context.
+
+2. **Conclusions, third paragraph**: Removed the policy recommendation paragraph ("Heat action plans should integrate…"), which made prescriptive claims beyond what the ecological design can support.
+
+3. **Conclusions, final paragraph**: Changed "should confirm" to "are needed to confirm" to use appropriately hedged language about future directions.
+
+4. **Limitations, final sentence**: Added "The present findings should be interpreted as evidence for surveillance prioritization rather than causal evidence of heat-related illness."
+
+**Changes Made:**
+As described above — revisions to Conclusions (paragraphs 1, 3, and 4) and Limitations (final sentence).
+
+---
+
+## Summary of All Changes
+
+| Comment | Main Change | Location in Manuscript |
+|---------|------------|----------------------|
+| #1 | Target journal reconsidered (no MS change) | — |
+| #13 | Added Ref. 11 to Methods §2; clarified limitation | Methods §2; Limitations §5 |
+| #16 | Added 4 climate variables; all non-significant | Methods §4; Results §2; Table 2 |
+| #21 | Negative control analysis added; results reported | Results §7 (new); Limitations §5; Supplementary Figure S2 |
+| #38 | Softened causal language in Conclusions | Conclusions §1, §3 (deleted), §4; Limitations (added sentence) |
+
+We believe these revisions have substantially strengthened the manuscript. We hope the revised version will be suitable for publication.
+
+Sincerely,
+
+Haruki Saito
+[Affiliation]
+[Contact email]

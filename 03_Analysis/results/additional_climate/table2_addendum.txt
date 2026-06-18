@@ -1,0 +1,8 @@
+=== Table 2 addendum: Additional Climate Variables ===
+
+Variable                                                      beta                    95% CI        p     R2
+--------------------------------------------------------------------------------------------------------------
+Mean daily max temperature (per 1°C)                       -145.83         (-861.66, 570.00)   0.6835  0.004
+SD of daily max temperature (per 1°C)                      -586.99        (-2060.21, 886.23)   0.4265  0.014
+Mean diurnal temperature range (per 1°C)                   -307.32         (-961.69, 347.06)   0.3493  0.019
+Rapid-change days (≥5°C change, per 1 day)                  -42.32         (-190.74, 106.10)   0.5686  0.007

@@ -1,0 +1,9 @@
+=== FDMA Validation Regression Results ===
+
+Model 1: Heatstroke transport rate → Infusion therapy rate
+  beta=70.19, 95%CI=(36.85, 103.53), p=0.0001, R2=0.286
+  Pearson r=0.534, p=0.0001
+
+Model 2: Elderly solo household rate → Heatstroke transport rate
+  beta=1.70, 95%CI=(-1.38, 4.77), p=0.2717, R2=0.027
+  Pearson r=0.164, p=0.2717

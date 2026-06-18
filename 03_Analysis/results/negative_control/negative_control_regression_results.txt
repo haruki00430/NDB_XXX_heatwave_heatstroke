@@ -1,0 +1,17 @@
+=== Negative Control Regression Results ===
+Outcome: Outpatient utilization rate (per 100,000)  [Patient Survey R5]
+Predictor: Elderly solo household rate (%)
+
+--- Model NC: Elderly solo household rate → Outpatient utilization rate ---
+  beta = 123.52
+  95% CI = (44.30, 202.74)
+  p = 0.0030   [p = 0.003]
+  R2 = 0.180   Adj.R2 = 0.162
+  Pearson r = 0.424   p = 0.003
+
+--- Model Primary: Elderly solo household rate → Infusion therapy rate ---
+  beta = 723.37
+  95% CI = (376.52, 1070.21)
+  p = 0.0001   [p < 0.001]
+  R2 = 0.282   Adj.R2 = 0.266
+  Pearson r = 0.531   p < 0.001
