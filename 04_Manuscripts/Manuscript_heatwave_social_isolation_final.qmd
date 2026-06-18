@@ -2,9 +2,14 @@
 title: "Are Heat-Health Systems Socially Blind? Social Isolation and Dehydration-Related Healthcare Utilization Across Japan"
 author:
   - name: "Haruki Saito"
-    affiliation: "[Affiliation 1]"
+    affiliation: "Department of Epidemiology, Fukushima Medical University School of Medicine, Fukushima, Japan"
+    email: "m211039@fmu.ac.jp"
+    orcid: "0009-0009-7890-6068"
+    corresponding: true
   - name: "Tetsuya Ohira"
-    affiliation: "[Affiliation 2]"
+    affiliation: "Department of Epidemiology, Fukushima Medical University School of Medicine, Fukushima, Japan; Radiation Medical Science Center for the Fukushima Health Management Survey, Fukushima Medical University, Fukushima, Japan"
+    email: "teoohira@fmu.ac.jp"
+    orcid: "0000-0003-4532-7165"
 date: "2026-06-18"
 format:
   html:

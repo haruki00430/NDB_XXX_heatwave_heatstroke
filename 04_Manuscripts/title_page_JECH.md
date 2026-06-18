@@ -24,28 +24,28 @@ Social isolation and heat-health utilization in Japan
 
 ## Authors
 
-1. **Haruki Saito**¹  
-   ORCID: [0000-0000-0000-0000] ← **要記入（必須）**
+1. **Haruki Saito**¹ *(Corresponding author)*  
+   ORCID: 0009-0009-7890-6068
 
-2. **Tetsuya Ohira**²  
-   ORCID: [0000-0000-0000-0000] ← 任意（提出著者のみ必須）
+2. **Tetsuya Ohira**¹²  
+   ORCID: 0000-0003-4532-7165
 
 ---
 
 ## Affiliations
 
-¹ [Department / Division], [Institution], [City], Japan  
-² [Department / Division], [Institution], [City], Japan
+¹ Department of Epidemiology, Fukushima Medical University School of Medicine, Fukushima, Japan  
+² Radiation Medical Science Center for the Fukushima Health Management Survey, Fukushima Medical University, Fukushima, Japan
 
 ---
 
 ## Corresponding Author
 
-**Haruki Saito**  
-[Full postal address]  
-Email: haruki00430@gmail.com  
-ORCID: [0000-0000-0000-0000] ← **必須**  
-Phone: [+81-XX-XXXX-XXXX]
+**Haruki Saito, MD**  
+Department of Epidemiology, Fukushima Medical University School of Medicine  
+1 Hikarigaoka, Fukushima-shi, Fukushima 960-1295, Japan  
+Email: m211039@fmu.ac.jp  
+ORCID: 0009-0009-7890-6068
 
 ---
 
@@ -53,14 +53,11 @@ Phone: [+81-XX-XXXX-XXXX]
 
 | Item | Count | JECH Limit | Status |
 |---|---|---|---|
-| Abstract | **279 words** | 250 words | ⚠️ **29語オーバー — 要削減** |
+| Abstract | **246 words** | 250 words | ✅ |
 | Manuscript body* | **2,481 words** | 3,500 words | ✅ |
 
 *Body = Introduction + Methods + Results + Discussion + Conclusions.  
 Abstract・References・Tables・Figures・Acknowledgements・Contributions は除外。
-
-> ⚠️ **Abstract を250語以内に削減する必要があります（現在279語）。**  
-> 推奨: Background冒頭 または Results/Conclusions の簡略化で約30語削減。
 
 ---
 
@@ -127,10 +124,10 @@ During the preparation and writing of this work, the authors used AI-assisted to
 
 ## Checklist — Items to Complete Before ScholarOne Submission
 
-- [ ] **ORCID 記入**: Haruki Saito の ORCID を全箇所に記入（必須）
-- [ ] **Tetsuya Ohira の ORCID 記入**（任意）
-- [ ] **所属機関情報記入**: 両著者の正式所属・住所
-- [ ] **Abstract を250語以内に削減**（⚠️ 現在279語）
-- [ ] Figure 1–3 の画像ファイル（300 dpi）確認
-- [ ] STROBE checklist 作成・添付
-- [ ] ScholarOne (https://mc.manuscriptcentral.com/jech) でアカウント作成・投稿
+- [x] **ORCID 記入**: Haruki Saito 0009-0009-7890-6068 ✅
+- [x] **Tetsuya Ohira の ORCID 記入**: 0000-0003-4532-7165 ✅
+- [x] **所属機関情報記入**: 両著者の正式所属・住所 ✅
+- [x] **Abstract を250語以内**: 246語 ✅
+- [x] Figure 1–3 の画像ファイル（300 dpi）確認 ✅
+- [x] STROBE checklist 作成・添付 ✅
+- [ ] **ScholarOne (https://mc.manuscriptcentral.com/jech) で投稿**

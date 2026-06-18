@@ -35,13 +35,11 @@ We hope this study will be of interest to JECH readers and look forward to your 
 
 Yours sincerely,
 
-**Haruki Saito**  
-[Title, e.g., MD, PhD / Researcher]  
-[Department, Institution]  
-[Postal address]  
-Email: haruki00430@gmail.com  
-ORCID: [0000-0000-0000-0000]  
-Phone: [+81-XX-XXXX-XXXX]
+**Haruki Saito, MD**  
+Department of Epidemiology, Fukushima Medical University School of Medicine  
+1 Hikarigaoka, Fukushima-shi, Fukushima 960-1295, Japan  
+Email: m211039@fmu.ac.jp  
+ORCID: 0009-0009-7890-6068
 
 ---
 
