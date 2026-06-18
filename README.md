@@ -145,8 +145,10 @@ If you use this code, please cite the associated manuscript and code repository:
 **Manuscript**:
 > Saito H, Ohira T. Are Heat-Health Systems Socially Blind? Social Isolation and Dehydration-Related Healthcare Utilization Across Japan. *(In submission, 2026)*
 
-**Code repository** (DOI to be updated after Zenodo registration):
-> Saito H. Analysis code for "Are Heat-Health Systems Socially Blind?" [Software]. Zenodo. *(DOI: TBD)*
+**Code repository**:
+> Saito H. Analysis code for "Are Heat-Health Systems Socially Blind?" [Software]. Zenodo. 2026. https://doi.org/10.5281/zenodo.20740375
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20740375.svg)](https://doi.org/10.5281/zenodo.20740375)
 
 ---
 
