@@ -88,7 +88,7 @@ We conducted a nationwide ecological study using Japanese prefectures (N = 47) a
 
 ## 2. Outcome: Infusion Therapy Utilization
 
-Infusion therapy utilization rates were derived from the 10th NDB Open Data. We extracted claims for infusion procedures involving ≥500 mL volume (procedure code: G004), commonly used for rehydration in moderate-to-severe dehydration from heat illness or other acute conditions.11) Because the outcome is not heat-specific, we interpreted it as a population-level indicator of dehydration-related healthcare utilization. Rates were calculated per 100,000 population using the 2020 National Census. As a construct validity check, we examined the cross-prefectural correlation between infusion therapy utilization rate and the summer 2023 heatstroke ambulance transport rate derived from the Fire and Disaster Management Agency (FDMA) daily transport report (Supplementary Figure S1).1)
+Infusion therapy utilization rates were derived from the 10th NDB Open Data. We extracted claims for infusion procedures involving ≥500 mL volume (procedure code: G004), commonly used for rehydration in moderate-to-severe dehydration from heat illness or other acute conditions.11) Because the outcome is not heat-specific, we interpreted it as a population-level indicator of dehydration-related healthcare utilization. Rates were calculated per 100,000 population using the 2020 National Census. As a construct validity check, we examined the cross-prefectural correlation between infusion therapy utilization rate and the summer 2023 heatstroke ambulance transport rate derived from the Fire and Disaster Management Agency (FDMA) daily transport report (Supplementary Figure S1a).1)
 
 ## 3. Exposure: Elderly Solo Household Rate
 
@@ -126,23 +126,23 @@ Elderly solo household rate was the only significant predictor of infusion thera
 
 ## 3. Sensitivity Analysis: Outlier Exclusion
 
-Cook's distance analysis identified Hokkaido and Kochi as influential observations exceeding the threshold of 4/N = 0.085. After excluding these two prefectures (N = 45), the association strengthened (β = 925.11; 95% CI, 564.74–1,285.47; R² = 0.384; *p* < 0.001) (Table 3).
+Cook's distance analysis identified Hokkaido and Kochi as influential observations exceeding the threshold of 4/N = 0.085. After excluding these two prefectures (N = 45), the association strengthened (β = 925.11; 95% CI, 564.74–1,285.47; R² = 0.384; *p* < 0.001) (Table 2, Panel B).
 
 ## 4. Sensitivity Analysis: Tokyo Exclusion
 
-After excluding Tokyo (N = 46), the association remained statistically significant (β = 696.92; 95% CI, 352.45–1,041.39; R² = 0.274; *p* = 0.0002) (Table 3), indicating that the finding was not driven by the unique characteristics of Japan's largest metropolitan area.
+After excluding Tokyo (N = 46), the association remained statistically significant (β = 696.92; 95% CI, 352.45–1,041.39; R² = 0.274; *p* = 0.0002) (Table 2, Panel B), indicating that the finding was not driven by the unique characteristics of Japan's largest metropolitan area.
 
 ## 5. Stratified Analysis by Elderly Solo Household Rate
 
-When prefectures were stratified by the median elderly solo household rate (12.3%), the association differed between strata. In the lower stratum (N = 23, rate <12.3%), the association was statistically significant (β = 1,254.30; 95% CI, 7.69–2,500.92; R² = 0.173; *p* = 0.049). In the higher stratum (N = 24, rate ≥12.3%), the association was not statistically significant (β = 264.50; 95% CI, −461.52–990.53; R² = 0.025; *p* = 0.458) (Table 3). The estimated coefficient differed between strata (lower stratum β = 1,254.30 vs. higher stratum β = 264.50).
+When prefectures were stratified by the median elderly solo household rate (12.3%), the association differed between strata. In the lower stratum (N = 23, rate <12.3%), the association was statistically significant (β = 1,254.30; 95% CI, 7.69–2,500.92; R² = 0.173; *p* = 0.049). In the higher stratum (N = 24, rate ≥12.3%), the association was not statistically significant (β = 264.50; 95% CI, −461.52–990.53; R² = 0.025; *p* = 0.458) (Table 2, Panel B). The estimated coefficient differed between strata (lower stratum β = 1,254.30 vs. higher stratum β = 264.50).
 
 ## 6. Construct Validity: FDMA Heatstroke Transport Validation
 
-As a construct validity check, infusion therapy utilization rate was examined in relation to the summer 2023 heatstroke ambulance transport rate (per 100,000 population) derived from FDMA.1) A significant positive association was observed (β = 70.19; 95% CI, 36.85–103.53; r = 0.534; *p* < 0.001; Supplementary Figure S1), supporting the use of infusion therapy as a population-level indicator of heat-related dehydration.
+As a construct validity check, infusion therapy utilization rate was examined in relation to the summer 2023 heatstroke ambulance transport rate (per 100,000 population) derived from FDMA.1) A significant positive association was observed (β = 70.19; 95% CI, 36.85–103.53; r = 0.534; *p* < 0.001; Supplementary Figure S1a), supporting the use of infusion therapy as a population-level indicator of heat-related dehydration.
 
 ## 7. Negative Control: Outpatient Utilization Rate
 
-To assess whether the primary association might reflect general healthcare access rather than heat-related dehydration specifically, we examined the association between elderly solo household rate and general outpatient utilization rate derived from the R5 Patient Survey (Ministry of Health, Labour and Welfare), which represents all outpatient visits per 100,000 population. General outpatient utilization was significantly associated with elderly solo household rate (β = 123.52; 95% CI, 44.30–202.74; R² = 0.180; *p* = 0.003; Supplementary Figure S2). However, the association was substantially weaker than that observed for infusion therapy: the β coefficient was approximately six-fold smaller (123.52 vs. 723.37) and explained less variance (R² = 0.180 vs. 0.282). This comparison suggests that while elderly solo household rate captures some component of general healthcare utilization, the much stronger association with infusion therapy may reflect heat-related dehydration beyond what would be expected from general healthcare access patterns alone.
+To assess whether the primary association might reflect general healthcare access rather than heat-related dehydration specifically, we examined the association between elderly solo household rate and general outpatient utilization rate derived from the R5 Patient Survey (Ministry of Health, Labour and Welfare), which represents all outpatient visits per 100,000 population. General outpatient utilization was significantly associated with elderly solo household rate (β = 123.52; 95% CI, 44.30–202.74; R² = 0.180; *p* = 0.003; Supplementary Figure S1b). However, the association was substantially weaker than that observed for infusion therapy: the β coefficient was approximately six-fold smaller (123.52 vs. 723.37) and explained less variance (R² = 0.180 vs. 0.282). This comparison suggests that while elderly solo household rate captures some component of general healthcare utilization, the much stronger association with infusion therapy may reflect heat-related dehydration beyond what would be expected from general healthcare access patterns alone.
 
 ---
 
@@ -166,7 +166,7 @@ Strengths include nationwide coverage of all 47 prefectures, use of NDB Open Dat
 
 Several limitations should be considered. First, ecological associations may not reflect individual-level relationships. We cannot determine whether individuals living alone within a prefecture had higher infusion therapy utilization than those living with family. Second, this study did not directly evaluate heat warning systems; "socially blind" should be interpreted as a policy hypothesis, not a direct criticism of existing systems. Third, the cross-sectional design precludes causal inference.
 
-Fourth, because multivariable ecological modeling was not feasible owing to substantial collinearity, residual confounding cannot be excluded. Fifth, infusion therapy utilization is not heat-specific and captures dehydration from multiple causes, which may bias associations toward the null. Heat-specific diagnoses would strengthen inference but are not available in prefecture-level NDB Open Data. Additionally, monthly aggregation of procedure claims is not available in prefecture-level NDB Open Data; therefore, it was not possible to verify that infusion therapy utilization peaks during summer months, as would be expected if the outcome primarily captures heat-related dehydration. As a negative control, general outpatient utilization rate (R5 Patient Survey) was also significantly associated with elderly solo household rate (β = 123.52; 95% CI, 44.30–202.74; R² = 0.180; *p* = 0.003; Supplementary Figure S2); however, the β coefficient was approximately six-fold smaller than for infusion therapy (123.52 vs. 723.37) and explained less variance (R² = 0.180 vs. 0.282), suggesting partial specificity of the primary association beyond general healthcare access. Cross-validation against the 2023 summer FDMA heatstroke ambulance transport rate (r = 0.53, *p* < 0.001; Supplementary Figure S1)1) further supported the use of infusion therapy as a population-level proxy for heat-related dehydration.
+Fourth, because multivariable ecological modeling was not feasible owing to substantial collinearity, residual confounding cannot be excluded. Fifth, infusion therapy utilization is not heat-specific and captures dehydration from multiple causes, which may bias associations toward the null. Heat-specific diagnoses would strengthen inference but are not available in prefecture-level NDB Open Data. Additionally, monthly aggregation of procedure claims is not available in prefecture-level NDB Open Data; therefore, it was not possible to verify that infusion therapy utilization peaks during summer months, as would be expected if the outcome primarily captures heat-related dehydration. As a negative control, general outpatient utilization rate (R5 Patient Survey) was also significantly associated with elderly solo household rate (β = 123.52; 95% CI, 44.30–202.74; R² = 0.180; *p* = 0.003; Supplementary Figure S1b); however, the β coefficient was approximately six-fold smaller than for infusion therapy (123.52 vs. 723.37) and explained less variance (R² = 0.180 vs. 0.282), suggesting partial specificity of the primary association beyond general healthcare access. Cross-validation against the 2023 summer FDMA heatstroke ambulance transport rate (r = 0.53, *p* < 0.001; Supplementary Figure S1a) further supported the use of infusion therapy as a population-level proxy for heat-related dehydration.
 
 Sixth, unmeasured confounding by socioeconomic status, healthcare access, chronic disease, medication use, housing, and urban heat islands may remain. Climatic measures were prefecture-level averages and did not capture indoor or neighborhood exposures.
 
@@ -277,7 +277,9 @@ WBGT, wet-bulb globe temperature; SD, standard deviation. Air conditioning preva
 
 ---
 
-## Table 2. Univariate Linear Regression: Association between Each Predictor and Infusion Therapy Utilization (N = 47)
+## Table 2. Regression Analyses: Associations with Infusion Therapy Utilization
+
+**Panel A. Univariate Linear Regression — All Predictors (N = 47)**
 
 | **Variable** | **β (95% CI)** | ***p*** | **R²** | **Adj. R²** |
 | :--- | ---: | ---: | ---: | ---: |
@@ -285,47 +287,37 @@ WBGT, wet-bulb globe temperature; SD, standard deviation. Air conditioning preva
 | Air conditioning prevalence (per 1%) | 31.23 (−24.98, 87.45) | 0.269 | 0.027 | 0.005 |
 | Heatwave days (per 1 day) | −33.96 (−97.42, 29.51) | 0.287 | 0.025 | 0.003 |
 | Mean WBGT (per 1°C) | 94.32 (−658.68, 847.32) | 0.802 | 0.001 | −0.021 |
-| **Additional climate variables** | | | | |
+| *Additional climate variables* | | | | |
 | Mean daily maximum temperature (per 1°C) | −145.83 (−861.66, 570.00) | 0.684 | 0.004 | −0.018 |
 | SD of daily maximum temperature (per 1°C) | −586.99 (−2,060.21, 886.23) | 0.427 | 0.014 | −0.008 |
 | Mean diurnal temperature range (per 1°C) | −307.32 (−961.69, 347.06) | 0.349 | 0.019 | −0.003 |
 | Rapid-change days ≥5°C (per 1 day) | −42.32 (−190.74, 106.10) | 0.569 | 0.007 | −0.015 |
 
-**Bold** indicates *p* < 0.05. Additional climate variables derived from Japan Meteorological Agency daily temperature data (June–September 2023).
+**Panel B. Sensitivity Analyses — Elderly Solo Household Rate → Infusion Therapy Utilization**
 
----
-
-## Table 3. Sensitivity Analyses: Association between Elderly Solo Household Rate and Infusion Therapy Utilization
-
-| **Analysis** | **N** | **β (95% CI)** | ***p*** | **R²** | **Outliers Excluded** |
+| **Analysis** | **N** | **β (95% CI)** | ***p*** | **R²** | **Notes** |
 | :--- | ---: | ---: | ---: | ---: | :--- |
 | **Base model** | 47 | **723.37 (376.52, 1,070.21)** | **0.0001** | **0.282** | – |
-| **Outlier exclusion** | 45 | **925.11 (564.74, 1,285.47)** | **<0.001** | **0.384** | Hokkaido, Kochi |
-| **Tokyo exclusion** | 46 | **696.92 (352.45, 1,041.39)** | **0.0002** | **0.274** | Tokyo |
+| **Outlier exclusion** | 45 | **925.11 (564.74, 1,285.47)** | **<0.001** | **0.384** | Hokkaido, Kochi excluded |
+| **Tokyo exclusion** | 46 | **696.92 (352.45, 1,041.39)** | **0.0002** | **0.274** | Tokyo excluded |
 | **Stratified: High elderly solo HH rate (≥12.3%)** | 24 | 264.50 (−461.52, 990.53) | 0.458 | 0.025 | – |
 | **Stratified: Low elderly solo HH rate (<12.3%)** | 23 | **1,254.30 (7.69, 2,500.92)** | **0.049** | **0.173** | – |
 
-**Bold** indicates *p* < 0.05. HH, household.
+**Bold** indicates *p* < 0.05. Panel A: additional climate variables derived from Japan Meteorological Agency daily temperature data (June–September 2023). Panel B: outlier detection used Cook’s distance threshold 4/N = 0.085; Hokkaido and Kochi exceeded this threshold. HH, household.
 
 ---
 
 ## Figure Legends
 
-**Figure 1.** Cook's distance plot for outlier detection. Two prefectures (Hokkaido and Kochi) exceeded the conventional threshold of 4/N = 0.085, indicating influential observation status.
+**Figure 1.** Scatter plot showing the association between elderly solo household rate (%) and infusion therapy utilization (per 100,000 population) across 47 Japanese prefectures, stratified by the median elderly solo household rate (12.3%). Solid line represents the linear regression fit within each stratum, with shaded area indicating 95% confidence interval. Top 5 and bottom 5 prefectures by infusion therapy rate are labeled.
 
-**Figure 2.** Scatter plot showing the association between elderly solo household rate (%) and infusion therapy utilization (per 100,000 population) across 47 Japanese prefectures, stratified by the median elderly solo household rate (12.3%). Solid line represents the linear regression fit within each stratum, with shaded area indicating 95% confidence interval. Top 5 and bottom 5 prefectures by infusion therapy rate are labeled.
-
-**Figure 3.** Scatter plot showing the association between elderly solo household rate (%) and infusion therapy utilization (per 100,000 population) across all 47 Japanese prefectures. Solid line represents the simple linear regression fit (β = 723.37, *p* = 0.0001, R² = 0.282), with shaded area indicating 95% confidence interval.
+**Figure 2.** Scatter plot showing the association between elderly solo household rate (%) and infusion therapy utilization (per 100,000 population) across all 47 Japanese prefectures. Solid line represents the simple linear regression fit (β = 723.37, *p* = 0.0001, R² = 0.282), with shaded area indicating 95% confidence interval.
 
 ## Figure 1
 
-![](../03_Analysis/results/sensitivity_analysis/cooks_distance.png)
-
-## Figure 2
-
 ![](../03_Analysis/results/sensitivity_analysis/stratified_analysis.png)
 
-## Figure 3
+## Figure 2
 
 ![](../03_Analysis/results/sensitivity_analysis/scatter_elderly_infusion_labeled.png)
 
@@ -333,14 +325,6 @@ WBGT, wet-bulb globe temperature; SD, standard deviation. Air conditioning preva
 
 ## Supplementary Figure S1
 
-**Supplementary Figure S1.** Scatter plot showing the cross-prefectural association between heatstroke ambulance transport rate (Fire and Disaster Management Agency, per 100,000 population, June–September 2023) and infusion therapy utilization rate (per 100,000 population) across 47 Japanese prefectures. Solid line represents the simple linear regression fit (β = 70.19; 95% CI, 36.85–103.53; *p* < 0.001; r = 0.534), with shaded area indicating 95% confidence interval. Top 5 and bottom 5 prefectures by heatstroke transport rate are labeled. This cross-validation supports the use of infusion therapy as a population-level indicator of heat-related dehydration.
+**Supplementary Figure S1.** External validation and negative control analyses. (a) Cross-prefectural association between heatstroke ambulance transport rate (Fire and Disaster Management Agency, per 100,000 population, June–September 2023) and infusion therapy utilization rate (per 100,000 population; β = 70.19; 95% CI, 36.85–103.53; *p* < 0.001; r = 0.534), with shaded area indicating 95% confidence interval. Top 5 and bottom 5 prefectures by heatstroke transport rate are labeled. This cross-validation supports the use of infusion therapy as a population-level indicator of heat-related dehydration. (b) Side-by-side scatter plots comparing the association between elderly solo household rate (%) and general outpatient utilization rate (negative control; R5 Patient Survey; β = 123.52; 95% CI, 44.30–202.74; *p* = 0.003; R² = 0.180; left panel) and infusion therapy utilization rate (primary outcome; NDB Open Data; β = 723.37; 95% CI, 376.52–1,070.21; *p* < 0.001; R² = 0.282; right panel) across 47 Japanese prefectures. The association with infusion therapy was approximately six-fold stronger, supporting partial specificity of the primary association beyond general healthcare access.
 
-![](../03_Analysis/results/fdma_validation/figS1_fdma_vs_infusion.png)
-
----
-
-## Supplementary Figure S2
-
-**Supplementary Figure S2.** Side-by-side scatter plots comparing the association between elderly solo household rate (%) and (left panel) general outpatient utilization rate (negative control; R5 Patient Survey, per 100,000 population) and (right panel) infusion therapy utilization rate (primary outcome; NDB Open Data, per 100,000 population) across 47 Japanese prefectures. Solid lines represent simple linear regression fits with shaded 95% confidence intervals. General outpatient utilization was significantly but weakly associated with elderly solo household rate (β = 123.52; 95% CI, 44.30–202.74; *p* = 0.003; R² = 0.180), whereas the association with infusion therapy was approximately six-fold stronger (β = 723.37; 95% CI, 376.52–1,070.21; *p* < 0.001; R² = 0.282), supporting partial specificity of the primary association beyond general healthcare access.
-
-![](../03_Analysis/results/negative_control/figS2_negative_control.png)
+![](../03_Analysis/results/figS1_combined.png)
