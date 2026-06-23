@@ -66,12 +66,12 @@ NDB_XXX_heatwave_heatstroke/
 │   │   ├── 05_sensitivity_analysis.py        # Sensitivity analysis (Cook's distance, stratification)
 │   │   ├── 06_figures_english.py             # English figure generation
 │   │   ├── 07_additional_climate_variables.py # Additional climate variable analysis
-│   │   ├── 08_fdma_heatstroke_validation.py  # FDMA external validation (Supplementary Figure S1)
-│   │   └── 09_negative_control_outpatient.py # Negative control analysis (Supplementary Figure S2)
+│   │   ├── 08_fdma_heatstroke_validation.py  # FDMA external validation (Online Resource 1, panel a)
+│   │   └── 09_negative_control_outpatient.py # Negative control analysis (Online Resource 1, panel b)
 │   └── results/                    # Output figures and result tables
 │       ├── sensitivity_analysis/   # Cook's distance plot, stratified scatter plot
-│       ├── fdma_validation/        # Supplementary Figure S1 (FDMA validation)
-│       ├── negative_control/       # Supplementary Figure S2 (negative control)
+│       ├── fdma_validation/        # Online Resource 1, panel a (FDMA validation)
+│       ├── negative_control/       # Online Resource 1, panel b (negative control)
 │       └── additional_climate/     # Additional climate variable figures
 └── 04_Manuscripts/
     ├── Manuscript_heatwave_social_isolation_final.qmd  # Quarto source (submission version)
